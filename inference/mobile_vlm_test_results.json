@@ -1,0 +1,702 @@
+[
+  {
+    "ID": 1,
+    "입력 문장": "Although his confident tone suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 7864.02,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 2,
+    "입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 5092.08,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 3,
+    "입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\"emotion_ko\": \"불안된 메시지\", \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"}",
+    "지연시간(ms)": 12212.86,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 4,
+    "입력 문장": "It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 3562.61,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 5,
+    "입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 JSON 형태로 출력한 말 내용.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 6598.24,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 6,
+    "입력 문장": "It was obvious from his frowning face and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observe_signs\": \"그의 떨리는 손에서 불안이 느껴지 반환.\"\n            }",
+    "지연시간(ms)": 11404.16,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 7,
+    "입력 문장": "Her frowning face and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}\n```\n```\n{\n    const emotionK = {\n        emotion_ko: \"불안\",\n        observable_signs: \"그의 떨리는 손에서 불안이 느껴졌다.\"\n    }\n}",
+    "지연시간(ms)": 14367.83,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 8,
+    "입력 문장": "Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지 있다.\"\n            }",
+    "지연시간(ms)": 5517.45,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 9,
+    "입력 문장": "Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling cheerful words revealed an underlying anxiety that could not be masked.",
+    "모델 출력": "{\"emotion_ko\": \"불안으로 불안이 느껴지는 번역결과입니다.\"}\n            }\n\n            {\"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지는 번역결과입니다.\"}\n            {\"emotion_ko\": \"불안이 느껴지는 번역결과입니다.\"}\n            {\"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지는 번역결과입니다.\"}\n            {\"emotion_ko\": \"불안이 느껴지는 번역결과입니다.\"}\n            {\"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지는 번역결과입니다.\"}\n            {\"emotion_ko\": \"불안은 오스탕센틱 섭취으로 출력된 번역결과입니다.\"}",
+    "지연시간(ms)": 13195.1,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 10,
+    "입력 문장": "Despite the seemingly cheerful words and his carefully chosen words, her trembling teary eyes revealed an underlying sadness that could not be masked.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"불안이 본 말씀을 가설습니다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Assistant:###Assistant:\n            \"불안의 떨리는 오늘에 최종화된 말씀을 가설습니다.\"\n\n            출력 예시 (자신의 감정과 실제 번역으로 정확히 작성):\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"불안이 본 말씀을 가설습니다.\"\n            }",
+    "지연시간(ms)": 12584.18,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 11,
+    "입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"고객의 손에서 불안이 느껴진다.\"\n            }\n\n            반드시 생성된 JSON.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"ob observable_signs\": \"고객의 손에서 불안이 느껴지다.\"\n            }\n\n            첫번 코드(문법 \"불안\" 감정으로 생성되어)\n            {\n            \"emotion_ko\": \"불안\",\n            \"ob observable_signs\": \"고객의 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 13038.25,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 12,
+    "입력 문장": "Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 3054.9,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 13,
+    "입력 문장": "Beneath the surface of her trembling voice, calm demeanor, and consistent tone, there lingered an unshakable fear that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"\n            }\n\n            네, 해당 형태로 출력해.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"\n            }\n\n            번역결과  \n            {\"embryo_ko\": \"불안\",\n            \"obvious_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"}\n\n            번역결과  \n            {\"embryo_ko\": \"불안\",\n            \"obvious_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"}\n\n            번역결과  \n            {\"embryo_ko\": \"불안\",\n            \"obvious_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"}\n\n            번역결과  \n            {\"embryo_ko\": \"불안\",\n            \"obvious_signs\": \"그의 떨리는 본 손에서 불안이 느껴졌다.\"}",
+    "지연시간(ms)": 12650.9,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 14,
+    "입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n                                                   \"emotion_ko\": \"불안\",\n                                                   \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n                                                 }",
+    "지연시간(ms)": 14858.69,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 15,
+    "입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 3874.74,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 16,
+    "입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 12573.65,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 17,
+    "입력 문장": "Despite the seemingly cheerful frowning face and his carefully chosen words, her trembling smiling face revealed an underlying joy that could not be masked.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지 끝며 손이 등에 끌어보냛니다.\"\n}",
+    "지연시간(ms)": 9272.82,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 18,
+    "입력 문장": "Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 5255.24,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 19,
+    "입력 문장": "Her teary eyes and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 12032.57,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 20,
+    "입력 문장": "Although his smiling face suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            번역 결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨り는 손에서 불안이 느껴지다.\"\n            }\n\n            번역 결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지고 있다.\"\n            }\n\n            번역 결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지고 있다.\"\n            }\n\n            번역 결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지고 있다.\"\n            }\n\n            번역 결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지고 있다.\"\n            }",
+    "지연시간(ms)": 16623.28,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 21,
+    "입력 문장": "Even with his trembling voice, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            },\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            },\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            }\n            }",
+    "지연시간(ms)": 12287.76,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 22,
+    "입력 문장": "Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\"emotion\\_ko\": \"불안\"}\n\n{\"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n```vbnet\n위 예시에서 불안은 내 형태에서 반환할 뒤 수 있는 것입니다. 여기서 몇 가지 것이 있습니다.\n```css\n{\"emotion\\_ko\": \"불안\"}\n\n{\"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n```vbnet\n위 예시에서 불안은 내 형태에서 반환할 뒤 수 있는 것입니다. 여기서 몇 가지 것이 있습니다.\n```css\n{\"emotion\\_ko\": \"불안\"}\n\n{\"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n```vbnet\n위 예시에서 불안은 내 형태에서 반환할 뒤 수 있는 것입니다. 여기서 몇 가지 것이 있습니다.\n```css\n{\"emotion\\_ko\": \"불안\"}",
+    "지연시간(ms)": 14438.06,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 23,
+    "입력 문장": "Although his shaky legs suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            출력 반환:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 9720.49,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 24,
+    "입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 3169.75,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 25,
+    "입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\"emotion_ko\": \"불안\",\n              \"observable_signs\": \"떨리는 손에서 불안이 느껴지다.\"}\n              {\"observer\": \"내게 반드시 출력해야 합니다.\"}\n              {\"observer\": \"불안의 두 말에서 필요한 번역을 확인해야 합니다.\"}\n              {\"observer\": \"불안의 말에서 사용되는 손에서 불안이 느껴지다.\"}\n              {\"observer\": \"불안의 말에서 사용되는 손에서는 말로 감정으로 인해 불안의 두 말에서 불안이 느껴지다.\"}\n              {\"observer\": \"불안의 말에서 사용되는 손에서는 말로 감정으로 인해 불안의 두 말에서 불안이 느껴지다.\"}\n              {\"observer\": \"불안의 말에서 사용되는 손에서는 잘 필요한 번역을 확인하는 데 도움이 될 수 있습니다.\"}\n              {\"observer\": \"불안의 말에서 사용되는 손에서는 잘 필요한 번역을 확인하는 데 도움이 될 수 있습니다.\"}",
+    "지연시간(ms)": 16739.52,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 26,
+    "입력 문장": "Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling steady gaze revealed an underlying calmness that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 3808.3,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 27,
+    "입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 9275.29,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 28,
+    "입력 문장": "It was obvious from his shaky hands and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n}",
+    "지연시간(ms)": 12277.28,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 29,
+    "입력 문장": "Beneath the surface of her shaky hands, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 빈째 감정으로 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 8991.8,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 30,
+    "입력 문장": "Her trembling voice and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 3225.84,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 31,
+    "입력 문장": "Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\"emotion\\_ko\": \"불안\",\n            \"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n            {\"emotion\\_ko\": \"불안\",\n            \"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n            {\"emotion\\_ko\": \"불안\",\n            \"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n            {\"emotion\\_ko\": \"불안\",\n            \"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n            {\"emotion\\_ko\": \"불안\",\n            \"observable\\_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}",
+    "지연시간(ms)": 12330.48,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 32,
+    "입력 문장": "Her smiling face and unwavering gaze might have fooled others, but those who looked closely saw the sadness reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 18913.64,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 33,
+    "입력 문장": "Even with his shaky hands, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\"emotion_ko\": \"떠습니다.\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지 않다.\"}",
+    "지연시간(ms)": 5889.24,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 34,
+    "입력 문장": "Although his teary eyes suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 감정을 JSON로 출력한 형태.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 현재 손에 필요한 감정을 JSON로 출력한 형태.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 현재 손에 필요한 감정을 출력한 형태.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 15134.84,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 35,
+    "입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n        }\n\n        출력 예시 (실제 감정과 실제 번역으로 정확히 작성):\n        {\n        \"emotion_ko\": \"불안\",\n        \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n        }",
+    "지연시간(ms)": 15146.23,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 36,
+    "입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n                 \"emotion_ko\": \"불안\",\n                 \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지 된다.\"\n              }\n\n            반드시 감정을 추출해서.###Assistant:###Assistant:\n              {\n                 \"emotion_ko\": \"채\",\n                 \"observable_signs\": \"그의 떨리는 손에서 채 손을 떠나야 할 수 있다.\"\n              }\n\n            반드시 감정을 추출해서.###Assistant:###Assistant:\n              {\n                 \"emotion_ko\": \"치\",\n                 \"observable_signs\": \"그의 떨리는 손에서 치 손을 떠나야 할 수 있다.\"\n              }\n\n            반드시 감정을 추출해서.###Assistant:###Assistant:\n              {\n                 \"emotion_ko\": \"추\",\n                 \"ob observable_signs\": \"그의 감정이 추출되어 많은 감정이 달꼽다.\"\n              }\n\n            반드시 감정을 추출해서.###Assistant:###Assistant:\n              {\n                 \"emotion_ko\": \"알\",\n                 \"ob observable_signs\": \"그의 감정이 알고 있다.\"\n              }",
+    "지연시간(ms)": 12466.18,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 37,
+    "입력 문장": "Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 9962.63,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 38,
+    "입력 문장": "Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 3468.23,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 39,
+    "입력 문장": "Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴 있다.\"\n            }\n\n            출력 예시:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴 있다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴 있다.\"\n            }\n            }",
+    "지연시간(ms)": 9439.35,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 40,
+    "입력 문장": "Despite the seemingly cheerful teary eyes and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.",
+    "모델 출력": "{\n            \"emotion_ko\": \"일치리너\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            데이터 변경 검색 예시:\n            {\n            \"emotion_ko\": \"네\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            반드시 JSON 형태로 변경해.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"행복\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            데이터 변경 예시:\n            {\n            \"emotion_ko\": \"확\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            반드시 JSON 형태로 변경해.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"네\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            데이터 변경 예시:\n            {\n            \"emotion_ko\": \"네\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 11993.48,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 41,
+    "입력 문장": "Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 3535.86,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 42,
+    "입력 문장": "Although his calm appearance suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "",
+    "지연시간(ms)": 6646.35,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 43,
+    "입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 6383.04,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 44,
+    "입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"}\n\n            본문과 본질감을 추정하실 때 필요한 라버림을 실제로 추출해 JSON 형태로 반환해줍니다.\n\n            반드시 JSON 형태로 출력해.###Assistant:###Assistant:\n            {\"emotion_ko\": \"불안\",\n            \"observable_signs\": \"+ 불안 보다 행복하게 이루어진 불야와 함께 불안을 느끼다.\"}\n\n            본문과 본질감을 추정하실 때 필요한 라버림을 실제로 추출하여 JSON 형태로 반환해줍니다.\n\n따라서, 다음 문장입니다:\n```json\n{\n  \"emotion_ko\": \"불안\",\n  \"observable_signs\": \"+ 불안이 느껴지 했다.\"\n}\n```\n반드시 JSON 형태로 출력해.###Assistant:###Assistant:\n```json\n{\n  \"emotion_ko\": \"불안\",\n  \"observable_signs\": \"+ 불안이 느껴지 했다.\"\n}",
+    "지연시간(ms)": 13942.33,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 45,
+    "입력 문장": "Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling smiling face revealed an underlying surprise that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 19305.11,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 46,
+    "입력 문장": "Beneath the surface of her shaky legs, calm demeanor, and consistent tone, there lingered an unshakable anger that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 14895.04,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 47,
+    "입력 문장": "Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling frowning face revealed an underlying anger that could not be masked.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            }\n\n            네, 필요입니다.\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 20126.62,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 48,
+    "입력 문장": "Beneath the surface of her steady gaze, calm demeanor, and consistent tone, there lingered an unshakable sadness that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 출력:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 7459.35,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 49,
+    "입력 문장": "Her steady gaze and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지 봐습니다.\"\n            }\n            }\n            }",
+    "지연시간(ms)": 9433.75,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 50,
+    "입력 문장": "Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of anger in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 6905.24,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 51,
+    "입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted anxiety hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Human:###Human:\n            \"Although his frowning face suggested confidence on the surface, the deep-rooted anxiety hidden beneath his composed expression was undeniable to those who paid close attention.\"\n\n            출력 예시 변수 (실제 감정과 실제 번역으로 정확히 작성):\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 12100.14,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 52,
+    "입력 문장": "Despite the seemingly cheerful shaky hands and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 3054.78,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 53,
+    "입력 문장": "Despite the seemingly cheerful steady gaze and his carefully chosen words, her trembling calm appearance revealed an underlying anger that could not be masked.",
+    "모델 출력": "{\n            \"question\": \"작성 시장 가능성, 문테이션 패턴 또는 패턴 또는 데이터 질문을 제공하는 것이 좋습니다.\"\n            }\n\n            번역 방법 예시 (실제 감정과 실제 번역으로 정확하게 출력하는 경우):\n            {\n            \"question\": \"작성 시장 가능성, 문테이션 패턴 또는 패턴 또는 데이터 질문을 제공하는 것이 좋습니다.\"\n            }\n\n            번역 노력(제공):\n            {\n            \"question\": \"훨씬진한 출력 방법은 큰 최근 증상이며, 번역 노력이 없어서 보다 정확한 결과를 출력할 수 있습니다.\"\n            }",
+    "지연시간(ms)": 12861.31,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 54,
+    "입력 문장": "Although his teary eyes suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}\n```\n\n```json\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}",
+    "지연시간(ms)": 13904.88,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 55,
+    "입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 12850.07,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 56,
+    "입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by fear, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 19245.82,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 57,
+    "입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of anxiety in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\"emotion_ko\": \"불안된\",\n            \"observer_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"}\n\n            반드시 형태로 출력해.###Assistant:###Assistant:\n            {\"emotion_ko\": \"불안된 손\",\n            \"observer_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"}",
+    "지연시간(ms)": 8136.43,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 58,
+    "입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}",
+    "지연시간(ms)": 7534.24,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 59,
+    "입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 6270.47,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 60,
+    "입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 3213.8,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 61,
+    "입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "",
+    "지연시간(ms)": 3903.07,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 62,
+    "입력 문장": "Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴 손실을 느끼다.\"\n            }",
+    "지연시간(ms)": 4734.03,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 63,
+    "입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 4692.12,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 64,
+    "입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"objective_signs\": \"그의 떨리는 손에서 불안이 느껴져있다.\"\n            }\n\n            코드 예시 (실제 감정과 실제 번역으로 정확히 작성):\n            {\n            \"emotion_ko\": \"불안\",\n            \"objective_signs\": \"그의 떨리는 손에서 불안이 느껴져있다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Human:###Human:\n    {\n    \"emotion_ko\": \"불안\",\n    \"objective_signs\": \"그의 떨리는 손에서 불안이 느껴져있다.\"\n    }\n\n    {\n    \"emotion_ko\": \"불안\",\n    \"objective_signs\": \"그의 떨리는 손에서 불안이 느껴져있다.\"\n    }\n}",
+    "지연시간(ms)": 10935.63,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 65,
+    "입력 문장": "It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 3050.46,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 66,
+    "입력 문장": "Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 3047.86,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 67,
+    "입력 문장": "Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling shaky legs revealed an underlying joy that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 3235.34,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 68,
+    "입력 문장": "Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 3138.35,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 69,
+    "입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            검색 예시 설명:\n            \"불안\" 문장은 불안을 말하기 위해 강력한 손에서 불안을 분더워도록 불안으로 말해야 합니다.\n\n            반드시 불안을 말해 반드시 JSON 형태로 출력해.\n```\n위 예시에서 불안은 목소리와 그의 떨리는 목소리가 말는 손에서 불안을 분더워도록 불안을 분더워이며, 본문에 불안을 말해야 합니다.\n\n```\n{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n}",
+    "지연시간(ms)": 12148.0,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 70,
+    "입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안이 느낌 손에서 불틸을 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸 누르고 말씀말이 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸을 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸을 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸을 누르고 있다.\"\n            }\n\n            {\n            \"obvious_observers\": \"불안이 느낌 손에서 불틸을 누르고 있다.\"\n            }\n            }\n            }",
+    "지연시간(ms)": 19198.02,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 71,
+    "입력 문장": "Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            //출력 예시 반망 본문에서 불안 함수로 변경된 문구를 변경합니다.\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            // 불안 함수를 변경되며, 불안 함수의 파라미터를 변경합니다.\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n            // 불안 함수를 변경되며, 불안 함수의 파라미터를 변경합니다.\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 12386.2,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 72,
+    "입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 5998.21,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 73,
+    "입력 문장": "It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지만 불안이 불안이 너무 변화가 많습니다.\"\n}",
+    "지연시간(ms)": 5574.38,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 74,
+    "입력 문장": "Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\"emotion_ko\": \"불안\"}",
+    "지연시간(ms)": 12166.05,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 75,
+    "입력 문장": "Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\"emotion_ko\": \"불안\",\n                   \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n\n            반드시 JSON 형태로 출력해.###Assistant:###Assistant:수정된 내용 사진.\n\n            출력 예시 (실제 감정과 실제 번역으로 정확히 작성):\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}",
+    "지연시간(ms)": 18711.83,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 76,
+    "입력 문장": "Beneath the surface of her calm appearance, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 4007.58,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 77,
+    "입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.",
+    "모델 출력": "{\"emotion_ko\": \"불안\", \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"}",
+    "지연시간(ms)": 6797.21,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 78,
+    "입력 문장": "Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 3752.54,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 79,
+    "입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 3070.75,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 80,
+    "입력 문장": "Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling calm appearance revealed an underlying joy that could not be masked.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n}",
+    "지연시간(ms)": 4546.64,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 81,
+    "입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 3051.25,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 82,
+    "입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            코드예시, `emotion_ko` 정보가 생성되는 것입니다.\n\n             번역물 예시:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n             번역결과  \n            {\"emotion_ko\": \"불안\", \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"}\n            {\"image\": \"image.jpg\" },\n            {\"image\": \"image.jpg\" },\n            {\"image\": \"image.jpg\" }\n          }\n\n          {\"image\": \"image.jpg\" },\n          {\"image\": \"image.jpg\" },\n          {\"image\": \"image.jpg\" },\n          {\"image\": \"image.jpg\" }",
+    "지연시간(ms)": 8925.61,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 83,
+    "입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Assistant:###Assistant:\n            \"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.\"\n\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            나머니 형태로 출력해.###Assistant:###Assistant:\n            \"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing closely.\"\n\n        }\n\n        {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n        }\n\n        {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n        }\n\n    }\n\n}",
+    "지연시간(ms)": 12294.38,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 84,
+    "입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of surprise in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "{\n            \"key\": \"emotion_ko\",\n            \"value\": \"불안\",\n            \"type\": \"string\",\n            \"description\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            번역결과  \n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"key\": \"emotion_ko\",\n            \"value\": \"불안\",\n            \"type\": \"string\",\n            \"description\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            번역결과  \n            {\n            \"key\": \"emotion_ko\",\n            \"value\": \"불안\",\n            \"type\": \"string\",\n            \"description\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n            {\n            \"key\": \"emotion_ko\",\n            \"value\": \"불안\",\n            \"type\": \"string\",\n            \"description\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }\n\n            번역결과  \n            {\n            \"key\": \"emotion_ko\",\n            \"value\": \"불안\",\n            \"type\": \"string\",\n            \"description\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 19090.38,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 85,
+    "입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.",
+    "모델 출력": "",
+    "지연시간(ms)": 12692.49,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 86,
+    "입력 문장": "Even with his smiling face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 14115.59,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 87,
+    "입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 4227.72,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 88,
+    "입력 문장": "Her shaky legs and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n  },\n  {\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지네 작동되었다.\"\n  },\n  {\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지가 높아 작동한다.\"\n  }",
+    "지연시간(ms)": 10378.3,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 89,
+    "입력 문장": "Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of sadness in the way he interacted with others, betraying his true feelings.",
+    "모델 출력": "",
+    "지연시간(ms)": 12125.19,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 90,
+    "입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불분\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 6228.05,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 91,
+    "입력 문장": "Beneath the surface of her smiling face, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }\n\n            이 변경으로 반드시 감정을 추출해 JSON 형태로 출력해.###Assistant:###Assistant:\n            {\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 7637.35,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 92,
+    "입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 7927.89,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 93,
+    "입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 6280.07,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 94,
+    "입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observeable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 7922.96,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 95,
+    "입력 문장": "Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.",
+    "모델 출력": "",
+    "지연시간(ms)": 3158.01,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 96,
+    "입력 문장": "It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 12567.43,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 97,
+    "입력 문장": "Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.",
+    "모델 출력": "{\n    \"emotion_ko\": \"불안\",\n    \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n}",
+    "지연시간(ms)": 10158.47,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 98,
+    "입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by calmness, even though he tried his best to appear calm and collected.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불안\",\n            \"observable_signs\": \"그의 떨리는 손에서 불안이 느껴지다.\"\n            }",
+    "지연시간(ms)": 5819.23,
+    "JSON 구문 유효성": true
+  },
+  {
+    "ID": 99,
+    "입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.",
+    "모델 출력": "{\n            \"emotion_ko\": \"불끼\",\n            \"observable_signs\": \"그의 떨리는 손에서 불끼이 느껴졌다.\"\n            }\n\n            반드시 JSON 형태로 출력해.###Human:###Human:\n            \"Although his frowning face suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.\"\n\n            출력 예시 (실제 감정과 실제 번역으로 정확히 작성):\n            {\n            \"emotion_ko\": \"물거\",\n            \"observable_signs\": \"그의 떨리는 손에서 물거이 느껴졌다.\"\n            }",
+    "지연시간(ms)": 14225.67,
+    "JSON 구문 유효성": false
+  },
+  {
+    "ID": 100,
+    "입력 문장": "Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling smiling face revealed an underlying fear that could not be masked.",
+    "모델 출력": "",
+    "지연시간(ms)": 4087.29,
+    "JSON 구문 유효성": false
+  }
+]
