@@ -1,0 +1,2523 @@
+ID,입력 문장,이미지 경로,모델 출력,지연시간(ms),JSON 구문 유효성
+1,하여간 우리나라 교육엔 미래가 없어!!,/home/jieun/MobileVLM/data/anger/000801.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 분노를 표출하는 표정을 짓고 있으며, 눈썹을 찌푸리고 입을 크게 벌린 모습에서 강한 불만과 불만을 나타내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입을 크게 벌린 상태로 분노를 표현하고 있음"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세로 강한 불만을 나타냄"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",67728.98,True
+2,채널에이 군부 개인거 인증하냐 동아일보야!!,/home/jieun/MobileVLM/data/anger/000802.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 불쾌하고 분노에 찬 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입을 크게 벌린 모습"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60068.24,True
+3,닭년이 조언 구했다고 했는데 먼개소리냐,/home/jieun/MobileVLM/data/anger/000803.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불만을 표출하는 듯한 표정을 짓고 있으며, 배경에는 학교 건물이 보입니다. 인물의 눈빛에서 불쾌감과 분노가 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59182.41,True
+4,대가리에 우동사리들었냐.,/home/jieun/MobileVLM/data/anger/000804.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 화난 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 입술이 굳어 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹이 찌푸려져 있고 입술이 굳어 있다"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""눈을 가늘게 뜨고 있으며, 얼굴이 붉어 보인다"", ""confidence"": 0.7}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59845.78,True
+5,이런 뉴스 쓰지마라 공무원들 국민혈세 나랏돈 빼먹을 핑계만준다,/home/jieun/MobileVLM/data/anger/000805.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 불만을 표출하며 강한 감정을 드러내고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛으로 분노를 나타내고 있음"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세로 불만을 표현함"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60807.29,True
+6,조윤선이야말로 박근혜 최순실 국정농단의 부역자야 그동안 호가호위해서 좋디?,/home/jieun/MobileVLM/data/anger/000806.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 강한 분노를 드러내고 있는 표정을 짓고 있으며, 불만을 표출하는 듯한 자세를 취하고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 눈을 크게 뜨고 있어 분노를 나타내고 있음"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""입을 벌리고 있으며, 눈빛에서 불만을 읽을 수 있음"", ""confidence"": 0.95}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63108.58,True
+7,위증하면 너도 300여명 아이들을 죽인 살인자다.,/home/jieun/MobileVLM/data/anger/000807.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 강한 분노를 표현하고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 눈을 가늘게 뜨고 있어 분노를 나타냄"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""입을 벌리고 이를 드러내며 화난 표정을 짓고 있음"", ""confidence"": 0.85}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",50558.99,True
+8,나라를 좀먹는 일베충들이다.,/home/jieun/MobileVLM/data/anger/000808.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 매우 강한 분노를 표현하고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",57818.76,True
+9,일본... 절대 잊지 않겠다!!,/home/jieun/MobileVLM/data/anger/000809.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 사람의 얼굴 상단을 클로즈업한 사진입니다. 얼굴 표정은 진지하고 약간 긴장된 상태이며, 눈은 직접적으로 카메라를 응시하고 있습니다."",
+    ""details"": [
+      {
+        ""type"": ""표정"",
+        ""description"": ""눈물이 고인 눈빛과 진지한 표정으로 분노나 강한 감정을 나타내고 있습니다."",
+        ""confidence"": 0.87
+      }
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {
+        ""reviewer_id"": ""AI-001"",
+        ""status"": ""확인 완료""
+      },
+      {
+        ""reviewer_id"": ""AI-002"",
+        ""status"": ""자동 검증""
+      }
+    ]
+  }
+}",63496.68,True
+10,둘다 나쁜 인간들인데 패륜아집단이 더 더러운새끼들이지,/home/jieun/MobileVLM/data/anger/000810.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불만을 표출하는 표정을 짓고 있으며, 강한 분노를 드러내고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61482.41,True
+11,무슬림 극단주의는 암덩어리 같은 존재,/home/jieun/MobileVLM/data/anger/000811.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사람은 불안한 표정을 짓고 있으며, 눈썹을 찌푸리고 입을 살짝 벌린 채 카메라를 바라보고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입을 살짝 벌린 모습"", ""confidence"": 0.8}
+    ]
+  },
+  ""intensity"": 0.4,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58674.64,True
+12,감히 그네 따위랑 날 비교해?,/home/jieun/MobileVLM/data/anger/000812.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 불만을 품고 있으며, 눈썹을 찌푸리고 입을 굳게 다물고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 눈을 살짝 찌푸린 표정"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64576.96,True
+13,더러워서 탄핵도 못기다리겠다.,/home/jieun/MobileVLM/data/anger/000813.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불쾌한 감정을 표현하고 있으며, 이는 분노와 관련이 있을 수 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입술을 굳게 다문 표정"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""머리를 약간 기울인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",66467.51,True
+14,아직도 저 돼지일가가 인간인줄알고 대화라는게 가능하다고 생각하는 머저리들이 있는게 놀라움.,/home/jieun/MobileVLM/data/anger/000814.jpg,"{
+  ""emotion_ko"": ""놀람"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 무언가에 놀라거나 충격을 받은 듯한 표정을 짓고 있습니다. 눈은 크게 뜨고 입술은 약간 벌어져 있으며, 이는 놀라움의 일반적인 표현입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65839.7,True
+15,꼭 벌받을겁니다 당신,/home/jieun/MobileVLM/data/anger/000815.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물의 얼굴 표정은 매우 화난 상태로 보이며, 눈썹이 찌푸려져 있고 입술이 벌어져 있는 모습에서 분노를 강하게 느낄 수 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",67959.66,True
+16,요즘은 개나 소나 변호사 다 하니깐 저런 개 같은 변호사가 있군,/home/jieun/MobileVLM/data/anger/000816.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 화난 표정을 짓고 있으며, 입술을 굳게 다물고 눈썹을 찌푸리고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",59683.23,True
+17,정부새기들아 효과없으면 다시 내려야지,/home/jieun/MobileVLM/data/anger/000817.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 매우 화가 난 표정을 짓고 있으며, 입술을 굳게 다물고 눈썹을 치켜 올린 채 불만을 표출하고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",70645.08,True
+18,기자야. 펑펑 폭탄처럼 터지고 있는데 전 국민을 호구로 아나.,/home/jieun/MobileVLM/data/anger/000818.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 화난 표정을 짓고 있으며, 눈썹을 찌푸리고 입을 크게 벌리고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65266.2,True
+19,애라이 저거 훔쳐가는 놈들 천벌 받는다,/home/jieun/MobileVLM/data/anger/000819.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 화가 난 표정을 짓고 있으며, 눈썹을 찌푸리고 눈빛에서 분노가 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62989.58,True
+20,어쩌라고 그 따그로 쳐만들고 쳐 팔고 새차로 바꺼주던가,/home/jieun/MobileVLM/data/anger/000820.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 불만족스러운 감정을 표현하고 있으며, 강한 분노나 불쾌감을 느끼고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛과 찡그린 얼굴 표정으로 분노를 나타냄"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세로 불만을 표현함"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",70507.23,True
+21,그냥 내 느낌일뿐겠지?,/home/jieun/MobileVLM/data/fear/001201.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 중립적인 표정을 짓고 있으며, 눈빛은 차분하고 진지해 보입니다. 배경은 약국으로 보이며, 여성은 약국 입구 쪽을 바라보고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정, 눈빛은 차분함"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""약국 입구 쪽을 바라보고 있음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",71538.4,True
+22,아직너무초기라서 그런거죠?,/home/jieun/MobileVLM/data/fear/001202.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 중립적인 표정을 짓고 있으며, 배경에는 '대구소방본부'와 '작은불은 대비부터 큰불에는 대비면지'라는 문구가 포함된 안내 표지판이 보입니다. 이 표지판은 소방 관련 안내를 제공하는 것으로 보이며, 환경은 맑은 날씨로 나무와 주차된 차량이 있는 공원 또는 공공장소 같습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.5},
+      {""type"": ""제스처"", ""description"": ""고개를 약간 숙인 자세"", ""confidence"": 0.7}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",73874.27,True
+23,유치원버스 사고 낫다던데,/home/jieun/MobileVLM/data/fear/001203.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 표정을 짓고 있으며, 배경은 목재 구조의 작은 건물과 그 옆의 호수로, 날씨는 흐린 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""부드러운 미소와 함께 약간 찡그린 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세로 카메라를 응시"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",68006.08,True
+24,내가불안해서꾸는걸까..,/home/jieun/MobileVLM/data/fear/001204.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 마스크를 착용하고 있으며, 불안한 표정을 짓고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65309.49,True
+25,아내 있으면 여자 있는 술집가면 법 적으로 문제있나요?,/home/jieun/MobileVLM/data/fear/001205.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 매우 불만족스럽고 분노에 찬 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 눈을 크게 뜨고 있어 분노를 나타내고 있습니다."", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""입을 벌리고 소리를 지르는 듯한 자세를 취하고 있어 분노를 나타내고 있습니다."", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",68264.56,True
+26,한소리들을지.... 도와주세요,/home/jieun/MobileVLM/data/fear/001206.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 화난 표정을 짓고 있으며, 눈썹을 찌푸리고 입을 크게 벌리고 있는 모습입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62680.1,True
+27,그냥 잡다한거말고학업에 관련된거 듣는게 더 좋은가요?,/home/jieun/MobileVLM/data/fear/001207.jpg,"{
+  ""emotion_ko"": """",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 놀란 표정을 짓고 있으며, 배경에는 공사 현장과 'iian 더 메트로' 간판이 보인다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",52524.49,True
+28, 가격은 반값....이거 질이 다른건가요??,/home/jieun/MobileVLM/data/fear/001208.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 매우 놀란 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 눈이 크게 뜨여져 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60703.85,True
+29, 몸무게 1키로찌는건 아니겠죠?,/home/jieun/MobileVLM/data/fear/001209.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 놀란 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 눈동자가 크게 확장되어 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61494.46,True
+30,그정도로 더러운가요.........,/home/jieun/MobileVLM/data/fear/001210.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 다소 불안해 보이는 표정을 짓고 있으며, 눈은 크게 뜨고 입이 벌어져 있는 모습입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61200.49,True
+31, 보통 가진통도 이렇게 오래가나요?,/home/jieun/MobileVLM/data/fear/001211.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 매우 놀란 표정을 짓고 있으며, 입이 벌어져 있고 눈이 크게 떠져 있습니다. 배경에는 '홈플러스 익스프레스' 매장이 보이며, 붉은 사과 로고가 눈에 띕니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64793.14,True
+32,걱정이 큽니다,/home/jieun/MobileVLM/data/fear/001212.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 걱정스러운 표정을 짓고 있으며, 눈빛과 입 모양에서 불안함이 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60397.56,True
+33,이거 무슨 증상이죠??ㅜㅜ,/home/jieun/MobileVLM/data/fear/001213.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 놀란 표정을 짓고 있으며, 눈은 크게 뜨고 입은 벌어진 상태입니다. 이는 일반적으로 불안이나 혼란을 나타냅니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63349.2,True
+34,애인으로써 정말 걱정됩니다,/home/jieun/MobileVLM/data/fear/001214.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 매우 놀란 표정을 짓고 있으며, 눈은 크게 뜨고 입은 벌어져 있습니다. 이는 강한 감정적 반응을 나타내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""중간"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63388.16,True
+35,이러다 일주일전에 나오는거 아닌가몰라요,/home/jieun/MobileVLM/data/fear/001215.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 남성은 불안한 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 입이 약간 벌어져 있는 모습입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹이 찌푸려져 있고 눈빛이 불안해 보임"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""입이 약간 벌어져 있으며 불안한 표정을 짓고 있음"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.6,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",71062.58,True
+36,극도로 예민하고 불안한 상태에요,/home/jieun/MobileVLM/data/fear/001216.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 놀란 표정을 짓고 있으며, 눈은 크게 뜨고 입은 벌어져 있는 상태입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60618.16,True
+37,못받으면 어떡하죠,/home/jieun/MobileVLM/data/fear/001217.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 표정을 짓고 있으며, 눈빛에서 불안함이 느껴진다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60044.78,True
+38,이제 곧 내년이면 22살인 여대생입니다...요즘 고민이 있는데요...,/home/jieun/MobileVLM/data/fear/001218.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 강한 불만이나 분노를 표출하는 듯한 표정을 짓고 있습니다. 그의 눈은 크게 뜨고 있으며, 눈썹은 찌푸려져 있고, 입은 약간 벌어져 있어 불쾌한 감정을 드러내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65432.76,True
+39,집에와서 또 운동하긴했는데지난 3주의 노력이 물거품이 될까봐정말 걱정되요,/home/jieun/MobileVLM/data/fear/001219.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 사람은 슈퍼마켓에서 탄산음료 진열대를 바라보고 있으며, 표정은 걱정스럽고 불안해 보인다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64695.4,True
+40,엄마한테는 친구랑 보러간다하는데 안들키겠지??,/home/jieun/MobileVLM/data/fear/001220.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사람은 눈동자가 크게 뜨여 있고 입이 벌어져 있으며 얼굴 표정이 심각하고 걱정스러운 상태이다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64033.13,True
+41,오늘 정말 한눈에 반할 정도로 이뻤어요~~,/home/jieun/MobileVLM/data/happy/000001.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며, 긍정적인 감정을 표현하고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝게 웃고 있는 표정"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58501.85,True
+42,700일동안 화려한 팀워크와 자체발광하는 아름다운 노래.,/home/jieun/MobileVLM/data/happy/000002.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 향해 미소를 짓고 있으며, 배경에는 한국 전쟁 관련 그림이 그려져 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""입가에는 미소를 짓고 있지만 눈빛은 중립적입니다."", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""머리를 숙인 자세로 카메라를 바라보고 있습니다."", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",57206.63,True
+43,금방 사라지고 마는 스타들이 많은 우리 프로야구계에서 아저씨야말로 지존입니다.,/home/jieun/MobileVLM/data/happy/000003.jpg,"{
+  ""emotion_ko"": ""놀람"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 크게 웃고 있으며, 이는 그가 즐거워하거나 놀란 상태임을 나타냅니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65330.84,True
+44,정말 대단합니다.,/home/jieun/MobileVLM/data/happy/000004.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝은 표정으로 카메라를 바라보며, 배경에는 '밀양시립박물관'과 '밀양시립박물관전시관' 등의 안내 표지판이 보입니다. 이는 밀양 지역의 박물관 앞에서 찍힌 사진으로 보이며, 표지판에는 한글과 영어로 같은 장소명이 적혀 있어 관광지 또는 공공시설에서 촬영된 것으로 추정됩니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있으며, 눈빛이 긍정적으로 보입니다."", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""자연스러운 포즈로 카메라를 향해 미소 짓고 있어, 친근하고 긍정적인 분위기를 나타냅니다."", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",78272.89,True
+45,도니오빠도 하는 일들 모두 실타래 처럼 잘 풀렸음해요^^,/home/jieun/MobileVLM/data/happy/000005.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 KSPDOME 건물 앞에서 미소를 짓고 있으며, 긍정적이고 행복한 감정을 표현하고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""자연스러운 미소 짓기"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62643.23,True
+46,청하 솔로로 ost도 낸다던데 다재다능하다 진짜,/home/jieun/MobileVLM/data/happy/000006.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝은 미소를 짓고 있으며, 주변 환경은 밝고 평온해 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 포즈로 카메라를 바라보고 있음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",72218.24,True
+47,jtbc.. 대한민국의 희망입니다,/home/jieun/MobileVLM/data/happy/000007.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 나무 표지판 앞에서 미소 짓고 있으며, 표지판에는 다양한 정보와 지도가 포함되어 있습니다. 인물은 자연 속에서 즐거운 시간을 보내고 있는 듯한 인상을 줍니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있는 모습"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64738.78,True
+48,최순실이 구속되니 이제야 나라가 돌아가는구나,/home/jieun/MobileVLM/data/happy/000008.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 바라보며 미소 짓고 있으며, 붉은색과 노란색의 화려한 꽃이 배경에 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""미소 짓고 있음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""카메라를 바라보며 미소 짓고 있음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64066.01,True
+49,한마디로 멋있으십니다,/home/jieun/MobileVLM/data/happy/000009.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며, 카메라를 향해 활짝 입을 벌리고 있는 표정입니다. 자연 경관 앞에서 즐거운 시간을 보내고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝게 웃는 얼굴"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""카메라를 향해 활짝 입을 벌린 자세"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62176.8,True
+50,잘했다!!!!!!!!!!!!,/home/jieun/MobileVLM/data/happy/000010.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 밝은 표정으로 셀카를 찍고 있으며, 배경에는 '코인 노래방'이라는 글자가 크게 적혀 있는 간판이 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있어 긍정적인 감정을 나타냄"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""자연스러운 셀카 포즈로 친근하고 즐거운 분위기를 표현"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63958.26,True
+51,크~진짜 훌륭한 작품일세~~~~,/home/jieun/MobileVLM/data/happy/000011.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 향해 미소 짓고 있으며, 배경에는 정보 안내판이 있는 장소에 서 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""자연스러운 미소"", ""confidence"": 0.7}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59242.01,True
+52,차우찬이 진짜 개승리자다 시기가 천운이네,/home/jieun/MobileVLM/data/happy/000012.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝은 표정으로 카메라를 바라보고 있으며, 배경은 상업 공간으로 보이는 건물 입구입니다. 인물의 의상은 캐주얼하며, 배낭을 메고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있는 인물"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 포즈로 카메라를 바라봄"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",66214.37,True
+53,작가님 진찌 배우신분ㅜㅜㅜㅜㅜ원년멤버 그대로가야 의미가 있다는 말에 전적으로 동의합니다ㅜㅜㅜ,/home/jieun/MobileVLM/data/happy/000013.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며, 긍정적인 감정을 표현하고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있어 긍정적인 감정이 느껴짐"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""자연스러운 포즈로 카메라를 향해 웃고 있어 기분이 좋아 보임"", ""confidence"": 0.8}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",73664.59,True
+54,우와 최민용씨 다리기네요 .비율이 좋네용,/home/jieun/MobileVLM/data/happy/000014.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며 긍정적인 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있어 기분이 좋아 보임"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""자연스러운 미소와 함께 카메라를 바라보며 친근하게 인사하는 자세"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63744.93,True
+55,스페셜~~ 봐도 봐도 또보고 싶음~~♡,/home/jieun/MobileVLM/data/happy/000015.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 밝게 미소를 짓고 있으며, 긍정적이고 행복한 감정을 표현하고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59296.4,True
+56,연기자들 모두 짱이다,/home/jieun/MobileVLM/data/happy/000016.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 환하게 웃고 있으며, 긍정적이고 행복한 감정을 표현하고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있는 표정"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""자연스러운 미소와 편안한 자세"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60099.03,True
+57,잘했다!!!!!!!!!!!!,/home/jieun/MobileVLM/data/happy/000017.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며 긍정적인 감정을 표현하고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있음"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""카메라를 향해 활짝 웃고 있음"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59330.57,True
+58,유재석 의 도전 대단하다..,/home/jieun/MobileVLM/data/happy/000018.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 밝게 웃고 있으며, 자연스러운 표정을 짓고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""미소 짓고 있음"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58848.38,True
+59,63번버스 매일타는데 다른기사님들보다 참 젊은기사분이라고 생각했었는데 멋지시기까지 하네요!!,/home/jieun/MobileVLM/data/happy/000019.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 밝게 웃고 있으며 긍정적인 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있어 긍정적인 감정을 나타냄"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""자연스러운 미소와 함께 카메라를 응시하여 긍정적 감정을 나타냄"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",53884.01,True
+60,박보검 눈물의 최우수상 같이 울었네요~축하해요 보검이도 송중기도요~♡,/home/jieun/MobileVLM/data/happy/000020.jpg,"{
+  ""emotion_ko"": ""기쁨"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 환하게 웃고 있으며, 배경에는 운동장이 보입니다. 인물의 표정과 배경을 통해 긍정적이고 행복한 감정이 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""행복한 표정"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",65676.99,True
+61, 소량은 먹어도 인체에 해롭지 않고요.,/home/jieun/MobileVLM/data/neutral/002001.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 남성이 건물 앞에서 셀카를 찍은 모습을 보여줍니다. 그의 표정은 중립적이며 배경은 차분합니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""입술을 굳게 다문 중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세로 셀카를 찍는 포즈"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",67669.0,True
+62,그래도 청문회 나온 놈들보다는 정직한 대답 한것 같다,/home/jieun/MobileVLM/data/neutral/002002.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 향해 직접적으로 바라보고 있으며, 표정은 무표정에 가깝다. 배경은 고층 아파트 건물로, 도시 환경 속에 위치한 것으로 보인다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정, 눈빛은 직접적이며 감정이 드러나지 않음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세가 없음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",70327.01,True
+63,이런일 터지기전에 이미 계약 했을까?,/home/jieun/MobileVLM/data/neutral/002003.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 향해 정면을 바라보고 있으며, 배경에는 '동원로얄드워크'라는 글자가 적힌 건물과 그 앞의 나무들이 보입니다. 인물은 중립적인 표정을 짓고 있으며, 강한 감정 표현이 보이지 않습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""머리 숙인 자세"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",71472.07,True
+64,좀더 신중할필요가 있다...,/home/jieun/MobileVLM/data/neutral/002004.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 남성이 어떤 기념비 앞에서 셀카를 찍은 모습을 보여줍니다. 남성은 진지한 표정을 짓고 있으며, 배경에는 '무궁화 꽃이 피었습니다'라는 문구가 새겨진 기념비가 있습니다."",
+    ""details"": [
+      {
+        ""type"": ""표정"",
+        ""description"": ""남성의 표정은 진지하고 사색적인 느낌을 주며, 눈빛에는 깊은 생각이나 감정의 반영이 느껴집니다."",
+        ""confidence"": 0.0
+      }
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {
+        ""reviewer_id"": ""AI-001"",
+        ""status"": ""확인 완료""
+      },
+      {
+        ""reviewer_id"": ""AI-002"",
+        ""status"": ""자동 검증""
+      }
+    ]
+  }
+}",77353.59,True
+65,이번엔 베터리 색상은?,/home/jieun/MobileVLM/data/neutral/002005.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 중립적인 표정을 짓고 있으며, 특별한 감정의 신호를 보이지 않고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""평범한 표정, 감정의 변화가 보이지 않음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세, 특정 감정을 나타내지 않음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",68695.43,True
+66,근데 탈모도 아버지가 머리가풍성해도 아들은 탈모이고 아버지가 탈모여도 아들은 머리가 풍성한사람의외로많음.,/home/jieun/MobileVLM/data/neutral/002006.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 남성이 배경에 여러 광고판과 간판이 있는 거리 앞에서 셀카를 찍은 모습을 보여줍니다. 그의 표정은 중립적이며 특별한 감정을 나타내지 않습니다."",
+    ""details"": [
+      {""type"": ""얼굴 표정"", ""description"": ""평온한 표정, 눈빛은 중립적, 자신감 없음"", ""confidence"": 0.5}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63961.6,True
+67,최형우를 잡으려면 계약금은 최소 연봉은 최대로....,/home/jieun/MobileVLM/data/neutral/002007.jpg,"{
+  ""emotion_ko"": """",
+  ""observable_signs"": {
+    ""summary"": """",
+    ""details"": [
+      {""type"": """", ""description"": """", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",43546.22,True
+68, 제작진 쪽에서는 이미 같이 하자고 했겠지.,/home/jieun/MobileVLM/data/neutral/002008.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 카메라를 향해 정면을 바라보고 있으며, 표정은 중립적이다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""카메라를 응시하는 중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세가 없음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",57759.16,True
+69,저 문 어떻게 여는 거예요?,/home/jieun/MobileVLM/data/neutral/002009.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불만을 표현하고 있으며, 눈썹을 찌푸리고 입술을 굳게 다물고 있어 분노를 나타내는 표정을 짓고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸린 표정"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",66762.67,True
+70,가을은 오호츠크해 기단의 영향받는거아니었나?,/home/jieun/MobileVLM/data/neutral/002010.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 남성이 KSPO DOME 앞에서 셀카를 찍은 모습을 보여줍니다. 남성은 카메라를 바라보며 중립적인 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""카메라를 직시하는 중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 셀카 포즈"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",69766.08,True
+71,이것이 공정한 사회요 법치이다.,/home/jieun/MobileVLM/data/neutral/002011.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 자연스러운 표정을 짓고 있으며, 야외에서 촬영된 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.5},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세"", ""confidence"": 0.7}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62585.86,True
+72,교육은 남에게 봉사 희생 헌신을 가르치는것이지..,/home/jieun/MobileVLM/data/neutral/002012.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 카메라를 바라보며 중립적인 표정을 짓고 있습니다. 배경은 유리 문과 표지판이 있는 건물로, 내부에는 '소극장', '체험학습동', '전시실' 등의 표지판이 보이며, 그 중 '체험학습동' 표지판에는 'Gallery'라는 영문도 함께 표시되어 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""평범한 중립적 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""머리 정면을 향한 정면 시선"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",71834.55,True
+73,기사제목 개식상하거나 사심기사거나,/home/jieun/MobileVLM/data/neutral/002013.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 카메라를 정면으로 바라보고 있으며, 표정은 비교적 평온해 보입니다. 배경은 실내 공간으로 보이며, 테이블과 의자가 배치되어 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""정면을 응시하는 눈빛"", ""confidence"": 0.7},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세로 앉아 있음"", ""confidence"": 0.8}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64899.22,True
+74,축구로 비유 하자면 호날두나 메시가 발롱도르 받는 거랑 같지 ㅋㅋ,/home/jieun/MobileVLM/data/neutral/002014.jpg,"{
+  ""emotion_ko"": """",
+  ""observable_signs"": {
+    ""summary"": """",
+    ""details"": [
+      {""type"": """", ""description"": """", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",42751.28,True
+75,오늘도 출발합니다,/home/jieun/MobileVLM/data/neutral/002015.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 남성이 실내에서 카메라를 바라보며 정면을 응시하는 모습을 담고 있습니다. 그의 표정은 중립적이며, 감정의 변화를 명확히 알 수 없습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""카메라를 직접 응시하는 눈빛으로, 중립적인 감정을 나타냅니다."", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""특별한 제스처 없이 정면을 바라보고 있어 감정이 명확히 드러나지 않습니다."", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",60765.35,True
+76,시민에 피해가 없어야 합니다,/home/jieun/MobileVLM/data/neutral/002016.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 카메라를 바라보며 정면을 향해 서 있으며, 표정은 중립적입니다. 배경에는 푸른색 공중전화기와 한글로 된 표지판이 보이며, 주변은 도시 환경으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.5},
+      {""type"": ""제스처"", ""description"": ""머리 위로 손을 올린 자세"", ""confidence"": 0.3}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62193.21,True
+77,혈액 검사하면 금방 알 수 있다,/home/jieun/MobileVLM/data/neutral/002017.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 여성이 셀카를 찍고 있는 모습을 보여줍니다. 그녀는 긴 검은 머리를 가지고 있으며 검은색과 흰색 줄무늬 옷을 입고 있습니다. 배경에는 금속 울타리와 다양한 물건들이 보이며, 그 중 일부는 비닐봉지와 판지 상자입니다. 여성은 카메라를 향해 직접적으로 시선을 두고 있으며, 표정은 중립적입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""손으로 셀카를 찍고 있음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",59372.11,True
+78,여기엔 꼭 댓글 달아야겠다.,/home/jieun/MobileVLM/data/neutral/002018.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 쇼핑몰 내부의 화장품 매장에 서 있으며, 카메라를 향해 정면을 바라보고 있습니다. 그녀는 흰색 패딩 코트를 입고 있으며, 긴 갈색 머리를 가지고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""카메라를 향해 정면을 바라보고 있음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",69767.01,True
+79,휴게소로 따라갔더니.,/home/jieun/MobileVLM/data/neutral/002019.jpg,"{
+  ""emotion_ko"": """",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 카메라를 향해 직접적으로 바라보고 있으며, 특별한 감정 표현이 없는 중립적인 표정을 짓고 있습니다."",
+    ""details"": [
+      {
+        ""type"": ""표정"",
+        ""description"": ""중립적인 표정, 감정이 드러나지 않음"",
+        ""confidence"": 0.0
+      }
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {
+        ""reviewer_id"": """",
+        ""status"": """"
+      }
+    ]
+  }
+}",50099.02,True
+80,하지만 후반에는 변했다.,/home/jieun/MobileVLM/data/neutral/002020.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 쇼핑몰 내부에서 셀카를 찍은 사람으로 보입니다. 여성은 쇼핑몰의 현대적인 인테리어를 배경으로 하고 있으며, 카메라를 향해 미소 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 표정을 짓고 있지만, 감정이 명확하게 드러나지 않음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 셀카 포즈로, 특정한 감정을 나타내기 어려움"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",67625.08,True
+81,다이어트전에는 165에 58kg이었어요 ,/home/jieun/MobileVLM/data/sad/000401.jpg,"{
+  ""emotion_ko"": """",
+  ""observable_signs"": {
+    ""summary"": ""이미지의 사람은 마스크를 착용하고 있으며, 다소 진지한 표정을 짓고 있습니다. 배경에는 낙엽이 덮인 땅과 나무들이 보이며, 자연스러운 환경 속에 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",63184.58,True
+82,머리로는 무조건 헤어져야하는데 (바람같은 최악은 아님)마음이 그러질 못하고 있습니다..,/home/jieun/MobileVLM/data/sad/000402.jpg,"{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 울고 있는 표정이 아닌, 슬픈 감정을 내비치고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",69444.18,True
+83,21주된 첫 아가를 자궁경부무력증으로 하늘나라에 보냈습니다...,/home/jieun/MobileVLM/data/sad/000403.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 매우 슬프고 분노에 찬 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62111.12,True
+84,그리고 이시간외엔 계속 공부하느라운동을 마니할순없으요ㅠㅠ,/home/jieun/MobileVLM/data/sad/000404.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 사람이 야외에서 셀카를 찍고 있는 모습을 보여줍니다. 배경에는 나무와 건물이 보이며, 이 사람은 불안한 표정을 짓고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""어려운 상황에 처해 있는 듯한 표정"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세로 불안한 마음을 표현"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.6,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64643.58,True
+85,나도 이제 마음 접어야겠다.,/home/jieun/MobileVLM/data/sad/000405.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 진지한 표정을 짓고 있으며, 눈빛에서 약간의 분노나 강한 감정의 표현이 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60127.38,True
+86,나중에 다시연락한다면서 별다른 이유없이 차엿어요,/home/jieun/MobileVLM/data/sad/000406.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 카메라를 향해 미소 짓고 있으며, 배경에는 노란색 버스, 건물, 그리고 하늘이 보입니다. 인물의 표정은 밝고 긍정적으로 보이며, 환경은 일상적인 도시 풍경을 나타냅니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""미소 짓고 있음"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""카메라를 향해 직접적으로 응시"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59988.75,True
+87,다들 처음에 힘드신데도 참고 하셨나요?,/home/jieun/MobileVLM/data/sad/000407.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사람이 밭을 배경으로 셀카를 찍고 있으며, 배경에는 전봇대와 건물들이 보인다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""무표정한 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 셀카 포즈"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",54911.35,True
+88,제가 이제 곧 군대를 가는데요,/home/jieun/MobileVLM/data/sad/000408.jpg,"{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 거울 앞에서 셀카를 찍고 있으며, 눈물이 고인 눈빛과 고개를 숙인 자세로 인해 슬픔이 느껴진다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",64400.77,True
+89,빚 한달에 22만원 나와요.,/home/jieun/MobileVLM/data/sad/000409.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불만스럽고 화난 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 눈빛이 날카롭다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61585.68,True
+90,게속 울어요ㅠ ㅠ,/home/jieun/MobileVLM/data/sad/000410.jpg,"{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 사람이 울고 있는 모습을 보여주고 있으며, 주변 환경은 주방으로 추정되는 공간입니다. 사람의 얼굴에는 눈물이 고여 있고, 감정적으로 매우 힘든 상태를 나타내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62733.52,True
+91,헤어지고 마음이 깨지는 느낌이지만..,/home/jieun/MobileVLM/data/sad/000411.jpg,"{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""이미지는 한 사람이 카메라를 바라보며 눈가에 눈물이 고인 듯한 표정을 짓고 있는 모습을 보여줍니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59592.45,True
+92,바지를 27입었는데 약 복용 후 29가 되버렸어요...,/home/jieun/MobileVLM/data/sad/000412.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 지하철 내부에 있으며, 얼굴 표정이 심각하고 불만을 드러내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60042.79,True
+93,원픽 많대매ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ,/home/jieun/MobileVLM/data/sad/000413.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 마스크를 착용하고 있으며, 표정은 다소 불안해 보인다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""입술을 오므리고 눈을 좁힌 표정으로 불안한 감정을 나타내고 있음"", ""confidence"": 0.6},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세로 불안감이나 피로를 나타내고 있음"", ""confidence"": 0.8}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58318.63,True
+94,오늘도 연락한통없네요,/home/jieun/MobileVLM/data/sad/000414.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 감정을 표현하고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""입술을 굳게 다문 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58780.86,True
+95,제가 그렇게 잘못한 걸까요.,/home/jieun/MobileVLM/data/sad/000415.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 마스크를 착용하고 있으며, 어두운 배경에서 불안하거나 분노한 표정을 짓고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60168.28,True
+96,6년만남후 이별후 환승한 여자친구 친구는 아니였지만지인인 남자한테 환승했구요,/home/jieun/MobileVLM/data/sad/000416.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 화난 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 눈빛이 날카롭다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹이 찌푸려져 있고 눈빛이 날카롭다"", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58877.42,True
+97,몇달전에 산후검사하여 자궁경부암 검사는 정상이라 나왔는데..,/home/jieun/MobileVLM/data/sad/000417.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 불만족스럽고 화난 표정을 짓고 있습니다. 얼굴 표정과 눈빛에서 불쾌감이 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입을 굳게 다문 표정"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63125.63,True
+98,이런경우 마음이 떠난건가요..?,/home/jieun/MobileVLM/data/sad/000418.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 불안정하고 분노를 느끼고 있는 상태로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59964.85,True
+99,게임도 재미없구.............,/home/jieun/MobileVLM/data/sad/000419.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 약간의 불안한 표정을 짓고 있으며, 눈빛에서 불안감이 느껴진다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""중간"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",66903.97,True
+100,43석인데 손님 10석이상 안차요.,/home/jieun/MobileVLM/data/sad/000420.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 감정을 표현하고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""입술을 굳게 다문 표정과 살짝 찌푸린 눈썹은 불안한 마음을 나타냅니다."", ""confidence"": 0.7},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세는 불안이나 스트레스를 나타낼 수 있습니다."", ""confidence"": 0.9}
+    ]
+  },
+  ""intensity"": 0.6,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",68645.1,True
+101,의사양반 내가고자라니!,/home/jieun/MobileVLM/data/surprised/001601.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 카메라를 향해 바라보고 있으며, 배경에는 행사 광고와 안내 표지판이 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정, 강렬한 감정이 드러나지 않음"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세, 특별한 제스처 없음"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62163.78,True
+102,이 사람 얼굴이 약간 전라도 사람처럼 생겼네,/home/jieun/MobileVLM/data/surprised/001602.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물의 얼굴 표정은 중립적이지만, 그의 눈빛과 입가의 미묘한 긴장감이 불안한 감정을 나타낼 수 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈이 약간 찌푸려져 있고 입꼬리가 내려가 불안한 기색을 보임"", ""confidence"": 0.7},
+      {""type"": ""제스처"", ""description"": ""고개를 약간 숙인 자세로 불안감을 나타냄"", ""confidence"": 0.85}
+    ]
+  },
+  ""intensity"": 0.3,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61870.55,True
+103,아직도 안잡았냐??,/home/jieun/MobileVLM/data/surprised/001603.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불만을 나타내고 있는 것으로 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 눈빛이 날카로워 보임"", ""confidence"": 0.85},
+      {""type"": ""제스처"", ""description"": ""고개를 살짝 기울인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59666.49,True
+104,이분 ~~진짜 욕먹는건 이제 신의 영역에 들어선거같다~~ㅋㅋ,/home/jieun/MobileVLM/data/surprised/001604.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 불만스러운 표정을 짓고 있으며, 주변은 도시 풍경으로 구성되어 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입술을 굳게 다문 표정"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""고개를 약간 숙인 자세"", ""confidence"": 0.85}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",53203.72,True
+105,똥꼬 그냥 확.,/home/jieun/MobileVLM/data/surprised/001605.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 박물관 앞에서 포즈를 취하고 있으며, 표정은 중립적입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""중립적인 표정"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",58587.37,True
+106,진짜 종횡무진하잖아,/home/jieun/MobileVLM/data/surprised/001606.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 카메라를 향해 미소 짓고 있으며, 배경에는 '희망나라'라는 글자가 있는 큰 광고판이 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 표정을 짓고 있음"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""자연스러운 자세를 취하고 있음"", ""confidence"": 0.7}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",61536.77,True
+107,미군 주둔하면 식민지라며? ㅎㄷ,/home/jieun/MobileVLM/data/surprised/001607.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 표정을 짓고 있으며, 눈빛이 집중되어 있고 입술이 굳어 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": """",
+    ""target_language"": """",
+    ""translation_quality"": """",
+    ""timestamp"": """",
+    ""reviewed_by"": [
+      {""reviewer_id"": """", ""status"": """"}
+    ]
+  }
+}",52605.17,True
+108,와 한강 이사람도 전라도출신이네,/home/jieun/MobileVLM/data/surprised/001608.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 불만스러운 표정을 짓고 있으며, 눈썹이 찌푸려져 있고 입술이 굳어 있어 분노를 나타내고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹이 찌푸려져 있고 입술이 굳어 있는 모습"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63450.7,True
+109,아니 삼성처럼 기업을 운영한.것도 아닌데 어떻게 개인 일가가 8천억이란.,/home/jieun/MobileVLM/data/surprised/001609.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 강한 불만을 표출하는 듯한 표정을 짓고 있으며, 눈썹을 찌푸리고 입을 살짝 내밀고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입술을 살짝 내민 표정"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""고개를 살짝 기울인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63470.07,True
+110,한국에서 저런일이~!!,/home/jieun/MobileVLM/data/surprised/001610.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 놀란 표정을 짓고 있으며, 입술은 굳어 있고 눈은 크게 뜨고 있다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60017.55,True
+111,나라 자체가 도로가 기준일 만큼 반듯반듯하게 지어놨냐.,/home/jieun/MobileVLM/data/surprised/001611.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 공원에서 밝은 표정으로 카메라를 바라보고 있으며, 배경에는 다양한 놀이 시설과 푸른 하늘, 산이 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""밝은 미소를 짓고 있음"", ""confidence"": 0.9},
+      {""type"": ""제스처"", ""description"": ""카메라를 향해 고개를 숙이지 않고 정면을 바라봄"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",62439.2,True
+112,대박..진짜 탈퇴할 줄 이야..,/home/jieun/MobileVLM/data/surprised/001612.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 심각한 표정을 짓고 있으며, 눈빛이 다소 어둡고 고민하는 듯한 모습을 보이고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""심각한 표정"", ""confidence"": 0.7},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59982.89,True
+113,비 많이 와,/home/jieun/MobileVLM/data/surprised/001613.jpg,"{
+  ""emotion_ko"": ""중립"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 무표정한 얼굴로 카메라를 바라보고 있으며, 배경은 일본 테마파크의 게임 기계 앞입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""무표정한 얼굴"", ""confidence"": 0.0},
+      {""type"": ""제스처"", ""description"": ""카메라를 향한 정면 시선"", ""confidence"": 0.0}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",60945.61,True
+114,지금 주문해도 9월에 못받는다던데?,/home/jieun/MobileVLM/data/surprised/001614.jpg,"{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 인물은 불안한 표정을 짓고 있으며, 눈빛에서 걱정스러운 감정이 느껴집니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.5,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",59950.23,True
+115,내 발등뼈는 왜 조각났늬,/home/jieun/MobileVLM/data/surprised/001615.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 인물은 매우 화가 난 표정을 짓고 있으며, 눈빛에서 분노가 느껴집니다. 그의 표정은 심각하고 날카로우며, 눈썹은 찌푸려져 있고 입은 굳게 닫혀 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.9,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",63994.57,True
+116,근데 요즘 추격전은 유재석만 뛰어다녀. .,/home/jieun/MobileVLM/data/surprised/001616.jpg,"{
+  ""emotion_ko"": ""놀람"",
+  ""observable_signs"": {
+    ""summary"": ""사진 속 여성은 매우 놀란 표정을 짓고 있으며, 눈은 크게 뜨고 입은 벌어진 상태입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.0,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",55504.36,True
+117,대단하다.,/home/jieun/MobileVLM/data/surprised/001617.jpg,"{
+  ""emotion_ko"": ""놀람"",
+  ""observable_signs"": {
+    ""summary"": ""엘리베이터 안에서 놀란 표정을 짓고 있는 사람"",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈이 크게 뜨여 있고 입이 벌어져 있는 모습"", ""confidence"": 0.8},
+      {""type"": ""제스처"", ""description"": ""엘리베이터 문을 바라보고 있는 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",54054.38,True
+118,정말 이게 기사야???,/home/jieun/MobileVLM/data/surprised/001618.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 사람은 분노나 불만을 표현하는 듯한 표정을 짓고 있으며, 배경에는 여러 표지판과 공사 현장이 보입니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈썹을 찌푸리고 입을 크게 벌린 모습"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.7,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",56512.1,True
+119,대다나다. 당신없으면. 대한민국 더잘돌아간답니다...,/home/jieun/MobileVLM/data/surprised/001619.jpg,"{
+  ""emotion_ko"": ""분노"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 매우 놀란 표정을 짓고 있으며, 눈이 크게 뜨여 있고 입을 크게 벌린 채로 카메라를 바라보고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",56355.18,True
+120,이거 실화냐?,/home/jieun/MobileVLM/data/surprised/001620.jpg,"{
+  ""emotion_ko"": ""놀람"",
+  ""observable_signs"": {
+    ""summary"": ""이미지 속 여성은 놀라움과 충격을 받은 표정을 짓고 있습니다. 그녀의 눈은 크게 뜨고 있으며 입은 벌어져 있어 강한 반응을 나타내고 있습니다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""눈물이 고인 눈빛"", ""confidence"": 0.87},
+      {""type"": ""제스처"", ""description"": ""고개를 숙인 자세"", ""confidence"": 0.92}
+    ]
+  },
+  ""intensity"": 0.8,
+  ""additional_info"": {
+    ""source_language"": ""한국어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",55989.64,True

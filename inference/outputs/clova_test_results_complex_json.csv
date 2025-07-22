@@ -1,0 +1,1199 @@
+ID,입력 문장,모델 출력,지연시간(ms),JSON 구문 유효성
+1,"Although his confident tone suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5554.7,True
+2,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도에도 불구하고, 그녀의 표면 아래에는 누구도 주의 깊게 관찰하지 않으면 확신할 수 없는 혼란스러움이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""가만히 있지 못하고 약간씩 움직이는 몸짓""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림과 함께 나오는 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5339.24,True
+3,"Although his frowning face suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""겉으로는 자신감이 있어 보였지만, 그의 침착한 표정 아래에 숨겨진 깊은 혼란은 주의 깊게 관찰한 사람들에게 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 미소""},
+            {""type"": ""몸짓"", ""description"": ""표정 너머로 보이는 침착함 속 떨림""},
+            {""type"": ""목소리"", ""description"": ""조용하지만 불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5057.91,True
+4,"It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 자신감 있는 말투와 목소리의 약간의 떨림에서 혼란이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""행동"", ""description"": ""손의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4320.17,True
+5,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 그가 놀라움에 압도되었음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 고임""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""표정"", ""description"": ""입가의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4385.77,True
+6,"It was obvious from his frowning face and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 찡그린 얼굴과 목소리의 약간의 떨림에서 그가 혼란스러움에 휩싸여 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4573.56,True
+7,"Her frowning face and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손""},
+            {""type"": ""목소리"", ""description"": ""주저하는 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4049.28,True
+8,"Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 목소리에서 겉으로는 자신감이 느껴졌지만, 그의 침착한 표정 아래 숨겨진 깊은 슬픔은 주의 깊게 듣는 사람들에게 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""침착한 표정 속 깊은 슬픔""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 목소리""},
+            {""type"": ""표정"", ""description"": ""눈빛 속 절망""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4853.05,True
+9,"Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling cheerful words revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 목소리와 기쁜 듯했으나 떨리는 말투에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 목소리에서 불안이 느껴졌다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""음성"", ""description"": ""떨리는 말투에서 불안이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4919.44,True
+10,"Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling teary eyes revealed an underlying sadness that could not be masked.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 눈에서 슬픔이 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 고임""},
+            {""type"": ""몸짓"", ""description"": ""눈물의 흔들림""},
+            {""type"": ""목소리"", ""description"": ""슬픔의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3925.75,True
+11,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 표현""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""표정"", ""description"": ""얼굴의 밝음""}
+        ]
+    },
+    ""intensity"": 0.95
+}",4123.35,True
+12,"Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4152.25,True
+13,"Beneath the surface of her trembling voice, calm demeanor, and consistent tone, there lingered an unshakable fear that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 목소리와 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 목소리""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""안정되지 않은 음색""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4251.41,True
+14,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 차분한 외모와 목소리의 약간의 떨림에서 그가 기쁨에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""기쁨에 찬 미소""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""눈빛"", ""description"": ""눈의 빛에서 기쁨이 비침""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4701.27,True
+15,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그가 타인과 상호작용하는 방식에서 불안함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4231.5,True
+16,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 제스처를 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말을 함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4770.78,True
+17,"Despite the seemingly cheerful frowning face and his carefully chosen words, her trembling smiling face revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 미소에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""기쁨에 찬 웃음소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4041.21,True
+18,"Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 표정 속에서도 불안한 눈빛이 보였다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""목소리"", ""description"": ""망설이는 말투에서 불안이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4672.36,True
+19,"Her teary eyes and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈에서 눈물이 맺혔다.""},
+            {""type"": ""몸짓"", ""description"": ""손이 떨렸다.""},
+            {""type"": ""목소리"", ""description"": ""말이 더듬어졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4138.09,True
+20,"Although his smiling face suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""겉으로는 자신감이 있어 보였지만, 그의 침착한 표정 아래에 숨겨진 뿌리 깊은 분노는 세심한 주의를 기울인 사람들에게 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소""},
+            {""type"": ""몸짓"", ""description"": ""표정을 감추려는 듯 한 손으로 얼굴을 가림""},
+            {""type"": ""목소리"", ""description"": ""낮은 목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4939.96,True
+21,"Even with his trembling voice, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 목소리와 차분한 목소리, 당당한 걸음걸이에도 불구하고, 그가 타인과 상호작용하는 방식에서 그의 진정한 감정을 드러내는 명백한 두려움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5009.1,True
+22,"Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 숨겨진 깊은 슬픔이 분명히 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소 속 숨겨진 슬픔""},
+            {""type"": ""몸짓"", ""description"": ""고정된 시선""},
+            {""type"": ""목소리"", ""description"": ""조용한 목소리에서 느껴지는 슬픔""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4384.51,True
+23,"Although his shaky legs suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4051.09,True
+24,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소""},
+            {""type"": ""몸짓"", ""description"": ""자신감 있는 걸음걸음""},
+            {""type"": ""목소리"", ""description"": ""따뜻한 목소리""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4089.61,True
+25,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈빛에서 분노가 반영되었다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""목소리"", ""description"": ""주저하는 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4155.56,True
+26,"Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling steady gaze revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리지 않는 눈빛에서 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""눈빛의 흔들림 없음""},
+            {""type"": ""목소리"", ""description"": ""안정된 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4134.28,True
+27,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 평온한 외모와 목소리의 약간의 떨림에서 그가 혼란에 휩싸여 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""눈빛"", ""description"": ""눈동자의 흔들림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4433.15,True
+28,"It was obvious from his shaky hands and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 손과 목소리의 약간의 떨림에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4152.76,True
+29,"Beneath the surface of her shaky hands, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 흔들리는 손, 평온한 태도, 그리고 일정한 말투 아래에는 흔들리지 않는 기쁨이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 분명하게 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평온한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 흔들림""},
+            {""type"": ""목소리"", ""description"": ""일정한 말투""}
+        ]
+    },
+    ""intensity"": 0.9
+}",5005.05,True
+30,"Her trembling voice and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손과 흔들리지 않는 눈빛은 다른 사람들을 속일 수 있었지만, 자세히 본 사람들은 그녀의 떨리는 손과 망설이는 말에서 두려움을 발견했습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 눈빛에서 두려움이 느껴졌다.""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림은 두려움을 나타냈다.""},
+            {""type"": ""목소리"", ""description"": ""망설이는 말에서 불안이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5440.33,True
+31,"Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 목소리에서 겉으로는 자신감이 느껴졌지만, 그의 침착한 표정 아래 숨겨진 깊은 슬픔은 주의 깊게 듣는 사람들에게 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""침착한 표정 속 깊은 슬픔""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 목소리""},
+            {""type"": ""표정"", ""description"": ""눈빛 속 절망""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4822.26,True
+32,"Her smiling face and unwavering gaze might have fooled others, but those who looked closely saw the sadness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 슬픔이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 슬픔이 비쳤다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안함이 드러났고.""},
+            {""type"": ""목소리"", ""description"": ""망설이는 목소리로 슬픔이 전해졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4416.15,True
+33,"Even with his shaky hands, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그가 다른 사람들과 상호작용하는 방식에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""진심 어린 미소""},
+            {""type"": ""몸짓"", ""description"": ""자신감 있는 걸음걸음""},
+            {""type"": ""목소리"", ""description"": ""안정적인 목소리""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4187.78,True
+34,"Although his teary eyes suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래에 숨겨진 깊은 슬픔이, 주의 깊게 듣는 사람들에게 분명히 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 고요함 속에서도 슬픔이 느껴졌다.""},
+            {""type"": ""몸짓"", ""description"": ""차분한 표정 속에서도 슬픔이 느껴졌다.""},
+            {""type"": ""목소리"", ""description"": ""조용히 말하는 목소리에도 슬픔이 배어 있었다.""}
+        ]
+    },
+    ""intensity"": 0.9
+}",5055.48,True
+35,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말투를 보임""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4613.34,True
+36,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 흐름""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""표정"", ""description"": ""입가의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4004.91,True
+37,"Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""안정적인 걸음걸이와 자신감 있는 태도에도 불구하고""},
+            {""type"": ""목소리"", ""description"": ""그의 진짜 감정을 감추려는 듯 혼란스러운 대화 tone""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4634.92,True
+38,"Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""눈물 속에서도 그녀의 차분한 태도와 일관된 말투에서 흔들리지 않는 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 배경 속에서도 평온한 미소""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세""},
+            {""type"": ""목소리"", ""description"": ""일관된 목소리 톤에서 안정감""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4636.44,True
+39,"Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4051.1,True
+40,"Despite the seemingly cheerful teary eyes and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 자신감 있는 목소리에서 불안이 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈에서 눈물이 맺혀 있었지만, 그 속에는 불안한 감정이 숨어 있었다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 목소리와 자세에서 불안이 느껴졌다.""},
+            {""type"": ""목소리"", ""description"": ""자신감 있는 말투에도 불안함이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5193.17,True
+41,"Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 몸짓을 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말을 함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4735.97,True
+42,"Although his calm appearance suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 외모에도 불구하고 그의 단호한 표정 아래에 숨겨진 뿌리 깊은 놀라움은 세심한 주의를 기울인 사람들에게는 부인할 수 없는 것이었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉정한 미소""},
+            {""type"": ""몸짓"", ""description"": ""표정 아래의 긴장된 자세""},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5039.55,True
+43,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 제스처를 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말을 함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4771.74,True
+44,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈빛에서 분노가 반영되었다.""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""목소리"", ""description"": ""주저하는 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4154.15,True
+45,"Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling smiling face revealed an underlying surprise that could not be masked.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 미소에서 놀람이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3957.48,True
+46,"Beneath the surface of her shaky legs, calm demeanor, and consistent tone, there lingered an unshakable anger that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 흔들리는 다리 아래, 차분한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 분노가 존재했고, 이는 주의 깊게 관찰하는 모든 사람에게 분명히 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소""},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림""},
+            {""type"": ""목소리"", ""description"": ""일관된 분노의 어조""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5032.05,True
+47,"Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling frowning face revealed an underlying anger that could not be masked.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 분노가 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""날카로운 소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3875.61,True
+48,"Beneath the surface of her steady gaze, calm demeanor, and consistent tone, there lingered an unshakable sadness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 눈빛, 평온한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 슬픔이 남아 있었고, 이는 주의 깊게 관찰하는 모든 사람에게 분명히 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 눈빛 속 깊은 슬픔""},
+            {""type"": ""몸짓"", ""description"": ""고요한 태도에서 느껴지는 침울함""},
+            {""type"": ""목소리"", ""description"": ""일관된 말투에서 느껴지는 애수""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5299.31,True
+49,"Her steady gaze and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 제스처를 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말을 함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4750.39,True
+50,"Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of anger in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 분명한 분노를 나타냈다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차가운 미소""},
+            {""type"": ""몸짓"", ""description"": ""고개를 숙임""},
+            {""type"": ""목소리"", ""description"": ""단호한 어조""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4029.2,True
+51,"Although his frowning face suggested confidence on the surface, the deep-rooted anxiety hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래에 숨겨진 깊은 불안이 분명하게 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""겉으로는 자신감 있는 표정이나 내면에는 불안함이 느껴졌다.""},
+            {""type"": ""몸짓"", ""description"": ""차분한 표정 속에서도 불안한 긴장감이 느껴졌다.""},
+            {""type"": ""목소리"", ""description"": ""안정적인 말투 이면에 불안한 떨림이 묻어났다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5516.0,True
+52,"Despite the seemingly cheerful shaky hands and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""고요한 미소""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손""},
+            {""type"": ""목소리"", ""description"": ""조용한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3940.58,True
+53,"Despite the seemingly cheerful steady gaze and his carefully chosen words, her trembling calm appearance revealed an underlying anger that could not be masked.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 모습에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소 속 분노가 엿보였다.""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림은 분노의 강도를 나타냈다.""},
+            {""type"": ""목소리"", ""description"": ""낮은 목소리에서 분노가 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4553.79,True
+54,"Although his teary eyes suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래에 숨겨진 뿌리 깊은 분노가, 주의 깊게 듣는 사람들에게는 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세""},
+            {""type"": ""목소리"", ""description"": ""단호한 어조""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4385.47,True
+55,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손동작""},
+            {""type"": ""목소리"", ""description"": ""기쁨이 느껴지는 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4135.06,True
+56,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by fear, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4097.51,True
+57,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of anxiety in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그는 자신감 있는 말투와 안정된 목소리, 당당한 걸음걸이를 보였지만, 다른 사람들과의 상호작용에서 그의 진정한 감정을 드러내는 명백한 불안감이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""긴장된 자세""},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5121.41,True
+58,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그는 자신감 있는 말투와 안정된 목소리, 당당한 걸음걸이를 보였지만, 다른 사람들과의 상호작용에서 불안함이 느껴져 그의 진정한 감정을 속이는 듯했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""긴장된 자세""},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5130.02,True
+59,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 얼굴의 미소와 목소리의 약간의 떨림에서 그가 분노로 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""미소 짓는 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""표정"", ""description"": ""미묘한 불안함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4472.89,True
+60,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 몸짓을 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말투를 보임""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4909.05,True
+61,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""날카로운 소리""}
+        ]
+    },
+    ""intensity"": 0.9
+}",3963.06,True
+62,"Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 숨겨진 깊은 슬픔이 분명히 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소 속 숨겨진 슬픔""},
+            {""type"": ""몸짓"", ""description"": ""고정된 시선""},
+            {""type"": ""목소리"", ""description"": ""조용한 목소리에서 느껴지는 슬픔""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4413.53,True
+63,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 차분한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 혼란스러움이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 명백해졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도""},
+            {""type"": ""목소리"", ""description"": ""일관된 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5174.97,True
+64,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 평온한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 불안이 남아 있었고, 이는 주의 깊게 관찰하는 모든 사람에게 명백해졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""얼굴의 떨림""},
+            {""type"": ""목소리"", ""description"": ""일관된 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5044.55,True
+65,"It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 다리와 목소리의 약간의 떨림에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4339.53,True
+66,"Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 자신감 있는 목소리에서 불안이 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 목소리""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손""},
+            {""type"": ""목소리"", ""description"": ""떨리는 발성""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4336.77,True
+67,"Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling shaky legs revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 다리로 불안함이 드러나지 않는 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""몸짓"", ""description"": ""떨리는 다리""},
+            {""type"": ""표정"", ""description"": ""숨길 수 없는 미소""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3829.98,True
+68,"Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""상호작용 중 손동작의 불안정함""},
+            {""type"": ""목소리"", ""description"": ""불안한 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4558.84,True
+69,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 말투와 평온한 태도, 일관된 톤 아래에도 흔들리지 않는 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소""},
+            {""type"": ""몸짓"", ""description"": ""평화로운 자세""},
+            {""type"": ""목소리"", ""description"": ""고요한 목소리""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4624.2,True
+70,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도, 일관된 톤 아래에도 흔들리지 않는 놀라움이 존재함을 누구나 주의 깊게 관찰하면 분명히 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 표정 속에도 놀라움이 숨어 있었다.""},
+            {""type"": ""몸짓"", ""description"": ""평정심 속 떨림을 통해 놀라움이 느껴졌다.""},
+            {""type"": ""목소리"", ""description"": ""안정된 목소리 속에도 미세한 떨림이 존재했다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5990.58,True
+71,"Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""고요한 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""조용한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4093.44,True
+72,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""상호작용 중 손동작의 불안정함""},
+            {""type"": ""목소리"", ""description"": ""불안한 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4613.29,True
+73,"It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 자신감 있는 말투와 목소리의 약간의 떨림에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""기쁨에 찬 웃음소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4452.21,True
+74,"Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""안정적인 걸음걸이와 자신감 있는 태도에도 불구하고""},
+            {""type"": ""목소리"", ""description"": ""그의 진짜 감정을 감추려는 듯 혼란스러운 대화 tone""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4742.0,True
+75,"Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4206.98,True
+76,"Beneath the surface of her calm appearance, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 외모 아래에도, 차분한 태도와 일관된 말투 속에서도 흔들리지 않는 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 외모에도 불안한 눈빛이 엿보였다.""},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도와는 달리 손이 약간 떨리고 있었다.""},
+            {""type"": ""목소리"", ""description"": ""차분한 말투 속에서도 불안한 떨림이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",6018.38,True
+77,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 말투, 평온한 태도, 그리고 일관된 톤 아래에도 흔들리지 않는 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소""},
+            {""type"": ""몸짓"", ""description"": ""평화로운 자세""},
+            {""type"": ""목소리"", ""description"": ""안정적인 말투""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4750.14,True
+78,"Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""신비함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 눈물 속에는 평온한 태도와 변함없는 어조 아래에도 흔들리지 않는 놀라움이 존재함을 누구나 주의 깊게 관찰하면 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 그늘 속에서도 평온한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세와 흔들림 없는 표정""},
+            {""type"": ""목소리"", ""description"": ""일관된 목소리의 안정감""}
+        ]
+    },
+    ""intensity"": 0.9
+}",5509.27,True
+79,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4139.68,True
+80,"Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling calm appearance revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 외모에서 감춰질 수 없는 기쁨이 드러났."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평화로운 미소""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세""},
+            {""type"": ""목소리"", ""description"": ""고요한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4212.8,True
+81,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 웃음과 목소리의 약간의 떨림에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4203.56,True
+82,"Although his frowning face suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4098.3,True
+83,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 말투, 평온한 태도, 그리고 일관된 톤 아래에도 흔들리지 않는 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소""},
+            {""type"": ""몸짓"", ""description"": ""평화로운 자세""},
+            {""type"": ""목소리"", ""description"": ""안정적인 말투""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4661.82,True
+84,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of surprise in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 분명한 놀람을 보였고, 이는 그의 진정한 감정을 드러냈다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정""},
+            {""type"": ""몸짓"", ""description"": ""상호작용 중 머뭇거림""},
+            {""type"": ""목소리"", ""description"": ""놀란 듯한 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4616.05,True
+85,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 시선과 목소리의 떨림에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4161.1,True
+86,"Even with his smiling face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 미소""},
+            {""type"": ""몸짓"", ""description"": ""상호작용 중 불안한 몸짓""},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4340.0,True
+87,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 차분한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 혼란스러움이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 명백해졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도""},
+            {""type"": ""목소리"", ""description"": ""일관된 말투""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5208.72,True
+88,"Her shaky legs and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손과 흔들리지 않는 시선은 다른 사람들을 속였을지도 모른다. 그러나 자세히 들여다본 사람들은 그녀의 떨리는 손과 망설이는 말을 통해 불안이 반영된 것을 발견했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림으로 불안한 몸짓을 보임""},
+            {""type"": ""목소리"", ""description"": ""망설이며 불안한 목소리로 말함""}
+        ]
+    },
+    ""intensity"": 0.85
+}",6203.43,True
+89,"Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of sadness in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그는 차분한 외모와 안정된 목소리, 당당한 걸음걸이를 보였지만, 다른 사람들과의 상호작용에서 슬픔이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""슬픈 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""어색한 미소""},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4883.66,True
+90,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛""},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림""},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4232.11,True
+91,"Beneath the surface of her smiling face, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""신비함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 미소 밑에는 평온한 태도와 일관된 어조 너머로 누구도 쉽게 알아차릴 수 없는 흔들림 없는 놀라움이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""따뜻한 미소 밑에 숨겨진 놀라움""},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도로 표현된 놀라움""},
+            {""type"": ""목소리"", ""description"": ""일관된 어조 속 은은한 긴장감""}
+        ]
+    },
+    ""intensity"": 0.9
+}",5532.6,True
+92,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 시선과 목소리의 떨림에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈빛에서 분노가 느껴졌다.""},
+            {""type"": ""몸짓"", ""description"": ""눈썹의 찌푸림과 입가의 떨림""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림에서 분노가 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4821.32,True
+93,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 손으로 불안한 표정을 지음""},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손으로 불안한 몸짓을 보임""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리로 불안한 말투를 보임""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4950.26,True
+94,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 얼굴의 미소와 목소리의 약간의 떨림에서 그가 놀라움에 압도당했음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""미소 짓는 얼굴""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""표정"", ""description"": ""떨리는 손""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4384.66,True
+95,"Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 태도와 일관된 말 속에서도, 그녀의 표정 아래에는 쉽게 흔들리지 않는 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""미소 너머로 불안한 눈빛이 비쳤다.""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세 속에서도 손이 미세하게 떨리고 있었다.""},
+            {""type"": ""목소리"", ""description"": ""일관된 말투 속에서도 불안한 떨림이 느껴졌다.""}
+        ]
+    },
+    ""intensity"": 0.85
+}",5540.93,True
+96,"It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 다리와 목소리의 약간의 떨림으로 그가 불안에 휩싸여 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""몸짓"", ""description"": ""떨리는 다리""},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",3797.21,True
+97,"Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 태도와 변함없는 어조 아래, 그녀의 쾌활한 말 속에서도 흔들리지 않는 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""온화한 미소""},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세""},
+            {""type"": ""목소리"", ""description"": ""고요한 목소리""}
+        ]
+    },
+    ""intensity"": 0.9
+}",4620.5,True
+98,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by calmness, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""초조"",
+    ""observable_signs"": {
+        ""summary"": ""그의 평온한 외모와 목소리의 약간의 떨림에서 그가 평온함에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평온한 미소 속 불안""},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림""},
+            {""type"": ""눈빛"", ""description"": ""긴장된 시선""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4661.49,True
+99,"Although his frowning face suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래에 숨겨진 깊은 놀라움이 세심하게 주의를 기울인 사람들에게는 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""겉으로는 자신감 있는 표정""},
+            {""type"": ""몸짓"", ""description"": ""조용히 가라앉은 자세""},
+            {""type"": ""목소리"", ""description"": ""미묘한 떨림""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4743.58,True
+100,"Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling smiling face revealed an underlying fear that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 미소에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 미소""},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림""},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리""}
+        ]
+    },
+    ""intensity"": 0.85
+}",4078.82,True

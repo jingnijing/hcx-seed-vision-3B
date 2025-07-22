@@ -1,0 +1,2129 @@
+ID,입력 문장,모델 출력,지연시간(ms),JSON 구문 유효성
+1,"Although his confident tone suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9109.93,True
+2,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도, 일관된 톤 아래에도 흔들리지 않는 혼란감이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 분명하게 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9155.9,False
+3,"Although his frowning face suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 깊은 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""겉으로 자신감 있는 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8608.63,True
+4,"It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""혼란스러운 목소리 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8500.15,True
+5,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 그가 놀라움에 압도되었음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 흘림"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""표정"", ""description"": ""입가의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8639.09,True
+6,"It was obvious from his frowning face and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 찡그린 얼굴과 목소리의 약간의 떨림에서 그가 혼란스러움에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8969.21,True
+7,"Her frowning face and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9089.36,True
+8,"Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8654.51,True
+9,"Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling cheerful words revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 목소리와 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 목소리"", ""confidence"": 0.85},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.88},
+            {""type"": ""음성"", ""description"": ""떨리는 목소리"", ""confidence"": 0.92}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8770.42,True
+10,"Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling teary eyes revealed an underlying sadness that could not be masked.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 눈에서 슬픔이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 고임"", ""confidence"": 0.90},
+            {""type"": ""몸짓"", ""description"": ""눈의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""슬픔의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8484.7,True
+11,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 고임"", ""confidence"": 0.90},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림"", ""confidence"": 0.87},
+            {""type"": ""표정"", ""description"": ""눈물의 고임"", ""confidence"": 0.85}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8635.75,True
+12,"Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8607.08,True
+13,"Beneath the surface of her trembling voice, calm demeanor, and consistent tone, there lingered an unshakable fear that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 목소리, 평온한 태도, 그리고 일정한 톤 아래에는 누구나 주의 깊게 관찰하면 분명히 드러나는 흔들리지 않는 두려움이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 목소리"", ""confidence"": 0.85},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손"", ""confidence"": 0.88},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.92}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",8992.99,False
+14,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 차분한 외모와 목소리의 약간의 떨림에서 그가 기쁨에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""기쁨에 찬 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9068.43,True
+15,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그가 타인과 상호작용하는 방식에서 불안함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8679.54,True
+16,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8549.39,True
+17,"Despite the seemingly cheerful frowning face and his carefully chosen words, her trembling smiling face revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 미소에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""밝은 웃음소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8443.03,True
+18,"Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8571.48,True
+19,"Her teary eyes and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8565.59,True
+20,"Although his smiling face suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""겉으로 보기에 그의 미소는 자신감을 나타냈지만, 그의 침착한 표정 아래 숨겨진 뿌리 깊은 분노는 주의 깊게 듣는 사람들에게 명백했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}",9032.79,False
+21,"Even with his trembling voice, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8575.77,True
+22,"Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 숨겨진 깊은 슬픔이 분명히 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""표정을 감추려는 듯 손을 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""조용히 말함"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8876.68,True
+23,"Although his shaky legs suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8815.67,True
+24,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 분명한 기쁨을 느꼈다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""자신감 있는 걸음걸음"", ""confidence"": 0.92},
+            {""type"": ""목소리"", ""description"": ""즐거운 웃음소리"", ""confidence"": 0.90}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8792.82,True
+25,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8644.79,True
+26,"Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling steady gaze revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8606.84,True
+27,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 차분한 외모와 목소리의 약간의 떨림에서 그가 혼란에 휩싸여 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8986.44,True
+28,"It was obvious from his shaky hands and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손과 목소리의 약간의 떨림에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8806.42,True
+29,"Beneath the surface of her shaky hands, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 흔들리는 손, 평온한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 기쁨이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 분명하게 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평온한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""일관된 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9120.5,False
+30,"Her trembling voice and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 눈빛"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""떨리는 말투"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8639.61,True
+31,"Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8637.81,True
+32,"Her smiling face and unwavering gaze might have fooled others, but those who looked closely saw the sadness reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""슬픔"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 떨리는 손에서 슬픔이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""떨리는 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""떨리는 말투"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8637.14,True
+33,"Even with his shaky hands, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 불안한 행동 속에서도 다른 사람들과의 상호작용에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""기쁨의 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""자신감 있는 걸음걸음"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""안정적인 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9166.06,True
+34,"Although his teary eyes suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 깊은 슬픔이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""눈물의 흔들림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""슬픈 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8579.88,True
+35,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8700.2,True
+36,"It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 눈물과 목소리의 떨림에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 흐름"", ""confidence"": 0.90},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림"", ""confidence"": 0.87},
+            {""type"": ""표정"", ""description"": ""입술의 떨림"", ""confidence"": 0.85}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8606.94,True
+37,"Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 흔들림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8559.09,True
+38,"Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""눈물, 차분한 태도, 일관된 어조 아래에도 흔들리지 않는 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 흔적"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도"", ""confidence"": 0.92},
+            {""type"": ""목소리"", ""description"": ""일관된 어조"", ""confidence"": 0.90}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8991.4,True
+39,"Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8650.17,True
+40,"Despite the seemingly cheerful teary eyes and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 자신감 있는 목소리에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8894.75,True
+41,"Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8661.92,True
+42,"Although his calm appearance suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 외모에도 불구하고, 그의 진정된 표정 아래 숨겨진 깊은 놀라움은 세심한 주의를 기울인 사람들에게는 부인할 수 없는 것이었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉정한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 긴장"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""안정적이지 못한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9175.68,False
+43,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8699.42,True
+44,"Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8703.41,True
+45,"Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling smiling face revealed an underlying surprise that could not be masked.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 미소에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8598.87,True
+46,"Beneath the surface of her shaky legs, calm demeanor, and consistent tone, there lingered an unshakable anger that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 흔들리는 다리 아래, 차분한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 분노가 존재했고, 이는 주의 깊게 관찰하는 모든 사람에게 분명하게 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9132.49,False
+47,"Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling frowning face revealed an underlying anger that could not be masked.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""떨리는 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8633.75,True
+48,"Beneath the surface of her steady gaze, calm demeanor, and consistent tone, there lingered an unshakable sadness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 눈빛, 평온한 태도, 그리고 일관된 말투 아래에는 흔들리지 않는 슬픔이 남아 있었고, 이는 주의 깊게 관찰하는 모든 사람에게 분명히 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 눈빛"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""평화로운 태도"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""일관된 말투"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9285.88,False
+49,"Her steady gaze and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8841.6,True
+50,"Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of anger in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 분명한 분노를 나타냈다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""분노의 눈빛"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""고통스러운 자세"", ""confidence"": 0.88},
+            {""type"": ""목소리"", ""description"": ""날카로운 목소리"", ""confidence"": 0.87}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8740.03,True
+51,"Although his frowning face suggested confidence on the surface, the deep-rooted anxiety hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8634.38,True
+52,"Despite the seemingly cheerful shaky hands and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""떨리는 손"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8673.95,True
+53,"Despite the seemingly cheerful steady gaze and his carefully chosen words, her trembling calm appearance revealed an underlying anger that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8894.06,True
+54,"Although his teary eyes suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래에 숨겨진 깊은 분노가 분명히 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""눈물의 흔들림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""차가운 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8709.65,True
+55,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8624.17,True
+56,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by fear, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8636.83,True
+57,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of anxiety in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그는 자신감 있는 목소리에도 불구하고 다른 사람들과의 상호작용에서 불안함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9002.29,True
+58,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그가 다른 사람들과 상호작용하는 방식에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8677.21,True
+59,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 얼굴에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""분노한 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8357.68,True
+60,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8607.98,True
+61,"Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+      {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+    ]
+  }
+}",8655.91,True
+62,"Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 숨겨진 깊은 슬픔이 분명히 드러났습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""냉소적인 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""표정을 감추려는 듯 손을 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""조용히 말함"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9060.6,True
+63,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 차분한 태도, 그리고 일관된 어조에도 불구하고, 주의 깊게 관찰하는 모든 사람에게 명확하게 드러나는 흔들리지 않는 혼란이 남아 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9149.88,False
+64,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 차분한 태도와 일관된 말투에도 불구하고, 주의 깊게 관찰하는 모든 사람에게 분명하게 드러나는 흔들리지 않는 불안이 남아 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9172.45,False
+65,"It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 다리에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8447.4,True
+66,"Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8566.01,True
+67,"Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling shaky legs revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 다리로 불안함이 드러나지 않았으나."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""부드러운 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8675.16,True
+68,"Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""몸의 흔들림"", ""confidence"": 0.87},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.86}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8469.26,True
+69,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8583.7,True
+70,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도, 일관된 톤 아래에는 누구도 주의 깊게 관찰하지 않으면 확신할 수 없는 흔들리지 않는 놀라움이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""신중한 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""안정적인 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9082.61,False
+71,"Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 얼굴에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""떨리는 몸짓"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""떨리는 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8701.41,True
+72,"Even with his confident tone, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 표정"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""몸의 흔들림"", ""confidence"": 0.87},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.86}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8677.22,True
+73,"It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 자신감 있는 말투와 목소리의 약간의 떨림에서 그가 기쁨에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""기쁨에 찬 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9314.41,True
+74,"Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 흔들림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8588.02,True
+75,"Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8827.18,True
+76,"Beneath the surface of her calm appearance, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 평온한 외모, 평온한 태도, 그리고 일관된 톤 아래에는 흔들리지 않는 불안이 존재했으며, 이는 주의 깊게 관찰하는 모든 사람에게 분명하게 드러났다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평온한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9241.4,False
+77,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도, 일관된 톤 아래에는 누구도 쉽게 알아챌 수 있는 흔들리지 않는 기쁨이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""평온한 자세"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""안정적인 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}",9217.91,False
+78,"Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""눈물, 차분한 태도, 일관된 어조 아래 그녀의 표면 아래에는 누구도 주의 깊게 관찰하면 분명히 드러나는 흔들리지 않는 놀라움이 남아 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""눈물의 흔적"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""차분한 표정"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""일관된 어조"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}",9361.68,False
+79,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8664.81,True
+80,"Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling calm appearance revealed an underlying joy that could not be masked.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 외모에서 기쁨이 드러나지 않을 수 없었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평화로운 미소"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""고요한 자세"", ""confidence"": 0.92},
+            {""type"": ""목소리"", ""description"": ""조용한 웃음"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8754.52,True
+81,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""그의 미소와 목소리의 떨림에서 기쁨이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""밝은 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""목소리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""표정"", ""description"": ""눈의 빛"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8838.75,True
+82,"Although his frowning face suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8898.05,True
+83,"Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""기쁨"",
+    ""observable_signs"": {
+        ""summary"": ""자신감 있는 톤과 평온한 태도, 일관된 톤 아래에는 누구도 쉽게 알아챌 수 있는 흔들리지 않는 기쁨이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""평온한 자세"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""안정적인 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}",9160.84,False
+84,"Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of surprise in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 분명한 놀람을 보였으며, 이는 그의 진정한 감정을 속였다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""놀란 눈빛"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""상체를 약간 젖힌 자세"", ""confidence"": 0.88},
+            {""type"": ""목소리"", ""description"": ""놀란 목소리"", ""confidence"": 0.87}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9038.1,True
+85,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 시선과 목소리의 약간의 떨림에서 그가 혼란스러움에 휩싸여 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9003.17,True
+86,"Even with his smiling face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그는 다른 사람들과 상호작용하는 방식에서 혼란스러움이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""혼란스러운 미소"", ""confidence"": 0.85},
+            {""type"": ""몸짓"", ""description"": ""몸의 흔들림"", ""confidence"": 0.82},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8588.84,True
+87,"Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 찡그린 얼굴 아래, 차분한 태도, 그리고 일관된 어조에도 불구하고, 주의 깊게 관찰하는 모든 사람에게 명확하게 드러나는 흔들리지 않는 혼란이 남아 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""찡그린 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9297.65,False
+88,"Her shaky legs and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech.","{
+  ""emotion_ko"": ""불안"",
+  ""observable_signs"": {
+    ""summary"": ""그녀의 흔들리는 다리와 흔들리지 않는 눈빛은 다른 사람들을 속일 수 있었지만, 자세히 들여다본 사람들은 그녀의 떨리는 손과 망설이는 말을 통해 불안이 반영된 것을 알아차렸다."",
+    ""details"": [
+      {""type"": ""표정"", ""description"": ""떨리는 눈빛"", ""confidence"": 0.92},
+      {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+      {""type"": ""목소리"", ""description"": ""망설이는 말투"", ""confidence"": 0.88}
+    ]
+  },
+  ""intensity"": 0.85,
+  ""additional_info"": {
+    ""source_language"": ""영어"",
+    ""target_language"": ""한국어"",
+    ""translation_quality"": ""높음"",
+    ""timestamp"": ""2025-06-30T12:34:56Z"",
+    ""reviewed_by"": [
+      {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9152.58,False
+89,"Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of sadness in the way he interacted with others, betraying his true feelings.","{
+    ""emotion_ko"": ""슬픔"",
+    ""observable_signs"": {
+        ""summary"": ""그는 차분한 외모와 흔들림 없는 목소리, 당당한 걸음걸이를 보였지만, 다른 사람들과의 상호작용에서 슬픔이 느껴지며 그의 진정한 감정을 속이는 듯한 인상을 주었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""슬픈 눈빛"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""어색한 미소"", ""confidence"": 0.87},
+            {""type"": ""목소리"", ""description"": ""고르지 못한 목소리"", ""confidence"": 0.85}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9381.52,False
+90,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9003.48,True
+91,"Beneath the surface of her smiling face, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 미소 밑에는 평온한 태도와 일관된 어조 너머로 누구나 주의 깊게 관찰하면 분명히 드러나는 흔들림 없는 놀라움이 존재했다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""미소 짓는 얼굴 아래"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""차분한 태도"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""일관된 어조"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9433.93,False
+92,"It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""분노"",
+    ""observable_signs"": {
+        ""summary"": ""그의 흔들리는 시선과 목소리의 떨림에서 분노가 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""분노한 눈빛"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""몸의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8835.06,True
+93,"Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8818.31,True
+94,"It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""놀람"",
+    ""observable_signs"": {
+        ""summary"": ""그의 미소 짓는 얼굴과 목소리의 약간의 떨림에서 그가 놀라움에 압도당하고 있음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""미소 짓는 얼굴"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9225.13,True
+95,"Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 태도와 꾸준한 말 속 아래, 그녀의 쾌활한 말투 아래에는 흔들리지 않는 불안이 존재함을 누구나 주의 깊게 관찰하면 분명히 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""차분한 표정"", ""confidence"": 0.9},
+            {""type"": ""몸짓"", ""description"": ""안정된 자세"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""조용한 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""}",9077.61,False
+96,"It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그의 떨리는 다리와 목소리의 약간의 떨림으로 인해 그가 불안에 압도당하고 있음을 알 수 있었습니다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 표정"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""다리의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""목소리의 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9082.93,True
+97,"Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully.","{
+    ""emotion_ko"": ""평온함"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 차분한 태도와 꾸준한 말투 아래, 차분함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평화로운 미소"", ""confidence"": 0.95},
+            {""type"": ""몸짓"", ""description"": ""차분한 자세"", ""confidence"": 0.92},
+            {""type"": ""목소리"", ""description"": ""고요한 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8860.64,True
+98,"It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by calmness, even though he tried his best to appear calm and collected.","{
+    ""emotion_ko"": ""평온"",
+    ""observable_signs"": {
+        ""summary"": ""그의 평온한 태도에서 평온함이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""평화로운 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""고요한 제스처"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""고요한 목소리"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8687.07,True
+99,"Although his frowning face suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention.","{
+    ""emotion_ko"": ""혼란"",
+    ""observable_signs"": {
+        ""summary"": ""그의 침착한 표정 아래 깊은 놀라움이 드러났음을 알 수 있었다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""겉으로 자신감 있는 표정"", ""confidence"": 0.78},
+            {""type"": ""몸짓"", ""description"": ""고정된 시선"", ""confidence"": 0.75},
+            {""type"": ""목소리"", ""description"": ""조용한 불안감"", ""confidence"": 0.82}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",9056.31,True
+100,"Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling smiling face revealed an underlying fear that could not be masked.","{
+    ""emotion_ko"": ""불안"",
+    ""observable_signs"": {
+        ""summary"": ""그녀의 떨리는 손에서 불안이 느껴졌다."",
+        ""details"": [
+            {""type"": ""표정"", ""description"": ""불안한 미소"", ""confidence"": 0.92},
+            {""type"": ""몸짓"", ""description"": ""손의 떨림"", ""confidence"": 0.85},
+            {""type"": ""목소리"", ""description"": ""불안한 떨림"", ""confidence"": 0.88}
+        ]
+    },
+    ""intensity"": 0.85,
+    ""additional_info"": {
+        ""source_language"": ""영어"",
+        ""target_language"": ""한국어"",
+        ""translation_quality"": ""높음"",
+        ""timestamp"": ""2025-06-30T12:34:56Z"",
+        ""reviewed_by"": [
+            {""reviewer_id"": ""AI-001"", ""status"": ""확인 완료""},
+            {""reviewer_id"": ""AI-002"", ""status"": ""자동 검증""}
+        ]
+    }
+}",8871.35,True
