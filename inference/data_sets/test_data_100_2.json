@@ -1,0 +1,402 @@
+[
+  {
+    "ID": 1,
+    "영어 입력 문장": "Although his confident tone suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 2,
+    "영어 입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 3,
+    "영어 입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 4,
+    "영어 입력 문장": "It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 5,
+    "영어 입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 6,
+    "영어 입력 문장": "It was obvious from his frowning face and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 7,
+    "영어 입력 문장": "Her frowning face and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 8,
+    "영어 입력 문장": "Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 9,
+    "영어 입력 문장": "Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling cheerful words revealed an underlying anxiety that could not be masked."
+  },
+  {
+    "ID": 10,
+    "영어 입력 문장": "Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling teary eyes revealed an underlying sadness that could not be masked."
+  },
+  {
+    "ID": 11,
+    "영어 입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 12,
+    "영어 입력 문장": "Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 13,
+    "영어 입력 문장": "Beneath the surface of her trembling voice, calm demeanor, and consistent tone, there lingered an unshakable fear that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 14,
+    "영어 입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 15,
+    "영어 입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 16,
+    "영어 입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 17,
+    "영어 입력 문장": "Despite the seemingly cheerful frowning face and his carefully chosen words, her trembling smiling face revealed an underlying joy that could not be masked."
+  },
+  {
+    "ID": 18,
+    "영어 입력 문장": "Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 19,
+    "영어 입력 문장": "Her teary eyes and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 20,
+    "영어 입력 문장": "Although his smiling face suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 21,
+    "영어 입력 문장": "Even with his trembling voice, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 22,
+    "영어 입력 문장": "Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 23,
+    "영어 입력 문장": "Although his shaky legs suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 24,
+    "영어 입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 25,
+    "영어 입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 26,
+    "영어 입력 문장": "Despite the seemingly cheerful cheerful words and his carefully chosen words, her trembling steady gaze revealed an underlying calmness that could not be masked."
+  },
+  {
+    "ID": 27,
+    "영어 입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 28,
+    "영어 입력 문장": "It was obvious from his shaky hands and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 29,
+    "영어 입력 문장": "Beneath the surface of her shaky hands, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 30,
+    "영어 입력 문장": "Her trembling voice and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 31,
+    "영어 입력 문장": "Although his trembling voice suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 32,
+    "영어 입력 문장": "Her smiling face and unwavering gaze might have fooled others, but those who looked closely saw the sadness reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 33,
+    "영어 입력 문장": "Even with his shaky hands, steady voice, and confident stride, there was a palpable sense of joy in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 34,
+    "영어 입력 문장": "Although his teary eyes suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 35,
+    "영어 입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 36,
+    "영어 입력 문장": "It was obvious from his teary eyes and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 37,
+    "영어 입력 문장": "Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 38,
+    "영어 입력 문장": "Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 39,
+    "영어 입력 문장": "Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 40,
+    "영어 입력 문장": "Despite the seemingly cheerful teary eyes and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked."
+  },
+  {
+    "ID": 41,
+    "영어 입력 문장": "Her calm appearance and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 42,
+    "영어 입력 문장": "Although his calm appearance suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 43,
+    "영어 입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 44,
+    "영어 입력 문장": "Her shaky hands and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 45,
+    "영어 입력 문장": "Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling smiling face revealed an underlying surprise that could not be masked."
+  },
+  {
+    "ID": 46,
+    "영어 입력 문장": "Beneath the surface of her shaky legs, calm demeanor, and consistent tone, there lingered an unshakable anger that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 47,
+    "영어 입력 문장": "Despite the seemingly cheerful smiling face and his carefully chosen words, her trembling frowning face revealed an underlying anger that could not be masked."
+  },
+  {
+    "ID": 48,
+    "영어 입력 문장": "Beneath the surface of her steady gaze, calm demeanor, and consistent tone, there lingered an unshakable sadness that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 49,
+    "영어 입력 문장": "Her steady gaze and unwavering gaze might have fooled others, but those who looked closely saw the fear reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 50,
+    "영어 입력 문장": "Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of anger in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 51,
+    "영어 입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted anxiety hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 52,
+    "영어 입력 문장": "Despite the seemingly cheerful shaky hands and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked."
+  },
+  {
+    "ID": 53,
+    "영어 입력 문장": "Despite the seemingly cheerful steady gaze and his carefully chosen words, her trembling calm appearance revealed an underlying anger that could not be masked."
+  },
+  {
+    "ID": 54,
+    "영어 입력 문장": "Although his teary eyes suggested confidence on the surface, the deep-rooted anger hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 55,
+    "영어 입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the joy reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 56,
+    "영어 입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by fear, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 57,
+    "영어 입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of anxiety in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 58,
+    "영어 입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of fear in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 59,
+    "영어 입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 60,
+    "영어 입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 61,
+    "영어 입력 문장": "Her cheerful words and unwavering gaze might have fooled others, but those who looked closely saw the anger reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 62,
+    "영어 입력 문장": "Although his cheerful words suggested confidence on the surface, the deep-rooted sadness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 63,
+    "영어 입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 64,
+    "영어 입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 65,
+    "영어 입력 문장": "It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 66,
+    "영어 입력 문장": "Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling confident tone revealed an underlying anxiety that could not be masked."
+  },
+  {
+    "ID": 67,
+    "영어 입력 문장": "Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling shaky legs revealed an underlying joy that could not be masked."
+  },
+  {
+    "ID": 68,
+    "영어 입력 문장": "Even with his cheerful words, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 69,
+    "영어 입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 70,
+    "영어 입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 71,
+    "영어 입력 문장": "Despite the seemingly cheerful shaky legs and his carefully chosen words, her trembling frowning face revealed an underlying calmness that could not be masked."
+  },
+  {
+    "ID": 72,
+    "영어 입력 문장": "Even with his confident tone, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 73,
+    "영어 입력 문장": "It was obvious from his confident tone and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 74,
+    "영어 입력 문장": "Even with his frowning face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 75,
+    "영어 입력 문장": "Although his shaky hands suggested confidence on the surface, the deep-rooted confusion hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 76,
+    "영어 입력 문장": "Beneath the surface of her calm appearance, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 77,
+    "영어 입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 78,
+    "영어 입력 문장": "Beneath the surface of her teary eyes, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 79,
+    "영어 입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 80,
+    "영어 입력 문장": "Despite the seemingly cheerful trembling voice and his carefully chosen words, her trembling calm appearance revealed an underlying joy that could not be masked."
+  },
+  {
+    "ID": 81,
+    "영어 입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by joy, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 82,
+    "영어 입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted calmness hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 83,
+    "영어 입력 문장": "Beneath the surface of her confident tone, calm demeanor, and consistent tone, there lingered an unshakable joy that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 84,
+    "영어 입력 문장": "Even with his steady gaze, steady voice, and confident stride, there was a palpable sense of surprise in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 85,
+    "영어 입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by confusion, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 86,
+    "영어 입력 문장": "Even with his smiling face, steady voice, and confident stride, there was a palpable sense of confusion in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 87,
+    "영어 입력 문장": "Beneath the surface of her frowning face, calm demeanor, and consistent tone, there lingered an unshakable confusion that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 88,
+    "영어 입력 문장": "Her shaky legs and unwavering gaze might have fooled others, but those who looked closely saw the anxiety reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 89,
+    "영어 입력 문장": "Even with his calm appearance, steady voice, and confident stride, there was a palpable sense of sadness in the way he interacted with others, betraying his true feelings."
+  },
+  {
+    "ID": 90,
+    "영어 입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 91,
+    "영어 입력 문장": "Beneath the surface of her smiling face, calm demeanor, and consistent tone, there lingered an unshakable surprise that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 92,
+    "영어 입력 문장": "It was obvious from his steady gaze and the slight quiver in his voice that he was overwhelmed by anger, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 93,
+    "영어 입력 문장": "Her confident tone and unwavering gaze might have fooled others, but those who looked closely saw the calmness reflected in her trembling hands and hesitant speech."
+  },
+  {
+    "ID": 94,
+    "영어 입력 문장": "It was obvious from his smiling face and the slight quiver in his voice that he was overwhelmed by surprise, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 95,
+    "영어 입력 문장": "Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable anxiety that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 96,
+    "영어 입력 문장": "It was obvious from his shaky legs and the slight quiver in his voice that he was overwhelmed by anxiety, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 97,
+    "영어 입력 문장": "Beneath the surface of her cheerful words, calm demeanor, and consistent tone, there lingered an unshakable calmness that became evident to anyone observing carefully."
+  },
+  {
+    "ID": 98,
+    "영어 입력 문장": "It was obvious from his calm appearance and the slight quiver in his voice that he was overwhelmed by calmness, even though he tried his best to appear calm and collected."
+  },
+  {
+    "ID": 99,
+    "영어 입력 문장": "Although his frowning face suggested confidence on the surface, the deep-rooted surprise hidden beneath his composed expression was undeniable to those who paid close attention."
+  },
+  {
+    "ID": 100,
+    "영어 입력 문장": "Despite the seemingly cheerful calm appearance and his carefully chosen words, her trembling smiling face revealed an underlying fear that could not be masked."
+  }
+]

@@ -1,0 +1,121 @@
+ID,이미지 경로,감정 클래스,한글 입력 문장
+1,/home/jieun/MobileVLM/data/anger/000801.jpg,anger,하여간 우리나라 교육엔 미래가 없어!!
+2,/home/jieun/MobileVLM/data/anger/000802.jpg,anger,채널에이 군부 개인거 인증하냐 동아일보야!!
+3,/home/jieun/MobileVLM/data/anger/000803.jpg,anger,닭년이 조언 구했다고 했는데 먼개소리냐
+4,/home/jieun/MobileVLM/data/anger/000804.jpg,anger,대가리에 우동사리들었냐.
+5,/home/jieun/MobileVLM/data/anger/000805.jpg,anger,이런 뉴스 쓰지마라 공무원들 국민혈세 나랏돈 빼먹을 핑계만준다
+6,/home/jieun/MobileVLM/data/anger/000806.jpg,anger,조윤선이야말로 박근혜 최순실 국정농단의 부역자야 그동안 호가호위해서 좋디?
+7,/home/jieun/MobileVLM/data/anger/000807.jpg,anger,위증하면 너도 300여명 아이들을 죽인 살인자다.
+8,/home/jieun/MobileVLM/data/anger/000808.jpg,anger,나라를 좀먹는 일베충들이다.
+9,/home/jieun/MobileVLM/data/anger/000809.jpg,anger,일본... 절대 잊지 않겠다!!
+10,/home/jieun/MobileVLM/data/anger/000810.jpg,anger,둘다 나쁜 인간들인데 패륜아집단이 더 더러운새끼들이지
+11,/home/jieun/MobileVLM/data/anger/000811.jpg,anger,무슬림 극단주의는 암덩어리 같은 존재
+12,/home/jieun/MobileVLM/data/anger/000812.jpg,anger,감히 그네 따위랑 날 비교해?
+13,/home/jieun/MobileVLM/data/anger/000813.jpg,anger,더러워서 탄핵도 못기다리겠다.
+14,/home/jieun/MobileVLM/data/anger/000814.jpg,anger,아직도 저 돼지일가가 인간인줄알고 대화라는게 가능하다고 생각하는 머저리들이 있는게 놀라움.
+15,/home/jieun/MobileVLM/data/anger/000815.jpg,anger,꼭 벌받을겁니다 당신
+16,/home/jieun/MobileVLM/data/anger/000816.jpg,anger,요즘은 개나 소나 변호사 다 하니깐 저런 개 같은 변호사가 있군
+17,/home/jieun/MobileVLM/data/anger/000817.jpg,anger,정부새기들아 효과없으면 다시 내려야지
+18,/home/jieun/MobileVLM/data/anger/000818.jpg,anger,기자야. 펑펑 폭탄처럼 터지고 있는데 전 국민을 호구로 아나.
+19,/home/jieun/MobileVLM/data/anger/000819.jpg,anger,애라이 저거 훔쳐가는 놈들 천벌 받는다
+20,/home/jieun/MobileVLM/data/anger/000820.jpg,anger,어쩌라고 그 따그로 쳐만들고 쳐 팔고 새차로 바꺼주던가
+21,/home/jieun/MobileVLM/data/fear/001201.jpg,fear,그냥 내 느낌일뿐겠지?
+22,/home/jieun/MobileVLM/data/fear/001202.jpg,fear,아직너무초기라서 그런거죠?
+23,/home/jieun/MobileVLM/data/fear/001203.jpg,fear,유치원버스 사고 낫다던데
+24,/home/jieun/MobileVLM/data/fear/001204.jpg,fear,내가불안해서꾸는걸까..
+25,/home/jieun/MobileVLM/data/fear/001205.jpg,fear,아내 있으면 여자 있는 술집가면 법 적으로 문제있나요?
+26,/home/jieun/MobileVLM/data/fear/001206.jpg,fear,한소리들을지.... 도와주세요
+27,/home/jieun/MobileVLM/data/fear/001207.jpg,fear,그냥 잡다한거말고학업에 관련된거 듣는게 더 좋은가요?
+28,/home/jieun/MobileVLM/data/fear/001208.jpg,fear, 가격은 반값....이거 질이 다른건가요??
+29,/home/jieun/MobileVLM/data/fear/001209.jpg,fear, 몸무게 1키로찌는건 아니겠죠?
+30,/home/jieun/MobileVLM/data/fear/001210.jpg,fear,그정도로 더러운가요.........
+31,/home/jieun/MobileVLM/data/fear/001211.jpg,fear, 보통 가진통도 이렇게 오래가나요?
+32,/home/jieun/MobileVLM/data/fear/001212.jpg,fear,걱정이 큽니다
+33,/home/jieun/MobileVLM/data/fear/001213.jpg,fear,이거 무슨 증상이죠??ㅜㅜ
+34,/home/jieun/MobileVLM/data/fear/001214.jpg,fear,애인으로써 정말 걱정됩니다
+35,/home/jieun/MobileVLM/data/fear/001215.jpg,fear,이러다 일주일전에 나오는거 아닌가몰라요
+36,/home/jieun/MobileVLM/data/fear/001216.jpg,fear,극도로 예민하고 불안한 상태에요
+37,/home/jieun/MobileVLM/data/fear/001217.jpg,fear,못받으면 어떡하죠
+38,/home/jieun/MobileVLM/data/fear/001218.jpg,fear,이제 곧 내년이면 22살인 여대생입니다...요즘 고민이 있는데요...
+39,/home/jieun/MobileVLM/data/fear/001219.jpg,fear,집에와서 또 운동하긴했는데지난 3주의 노력이 물거품이 될까봐정말 걱정되요
+40,/home/jieun/MobileVLM/data/fear/001220.jpg,fear,엄마한테는 친구랑 보러간다하는데 안들키겠지??
+41,/home/jieun/MobileVLM/data/happy/000001.jpg,happy,오늘 정말 한눈에 반할 정도로 이뻤어요~~
+42,/home/jieun/MobileVLM/data/happy/000002.jpg,happy,700일동안 화려한 팀워크와 자체발광하는 아름다운 노래.
+43,/home/jieun/MobileVLM/data/happy/000003.jpg,happy,금방 사라지고 마는 스타들이 많은 우리 프로야구계에서 아저씨야말로 지존입니다.
+44,/home/jieun/MobileVLM/data/happy/000004.jpg,happy,정말 대단합니다.
+45,/home/jieun/MobileVLM/data/happy/000005.jpg,happy,도니오빠도 하는 일들 모두 실타래 처럼 잘 풀렸음해요^^
+46,/home/jieun/MobileVLM/data/happy/000006.jpg,happy,청하 솔로로 ost도 낸다던데 다재다능하다 진짜
+47,/home/jieun/MobileVLM/data/happy/000007.jpg,happy,jtbc.. 대한민국의 희망입니다
+48,/home/jieun/MobileVLM/data/happy/000008.jpg,happy,최순실이 구속되니 이제야 나라가 돌아가는구나
+49,/home/jieun/MobileVLM/data/happy/000009.jpg,happy,한마디로 멋있으십니다
+50,/home/jieun/MobileVLM/data/happy/000010.jpg,happy,잘했다!!!!!!!!!!!!
+51,/home/jieun/MobileVLM/data/happy/000011.jpg,happy,크~진짜 훌륭한 작품일세~~~~
+52,/home/jieun/MobileVLM/data/happy/000012.jpg,happy,차우찬이 진짜 개승리자다 시기가 천운이네
+53,/home/jieun/MobileVLM/data/happy/000013.jpg,happy,작가님 진찌 배우신분ㅜㅜㅜㅜㅜ원년멤버 그대로가야 의미가 있다는 말에 전적으로 동의합니다ㅜㅜㅜ
+54,/home/jieun/MobileVLM/data/happy/000014.jpg,happy,우와 최민용씨 다리기네요 .비율이 좋네용
+55,/home/jieun/MobileVLM/data/happy/000015.jpg,happy,스페셜~~ 봐도 봐도 또보고 싶음~~♡
+56,/home/jieun/MobileVLM/data/happy/000016.jpg,happy,연기자들 모두 짱이다
+57,/home/jieun/MobileVLM/data/happy/000017.jpg,happy,잘했다!!!!!!!!!!!!
+58,/home/jieun/MobileVLM/data/happy/000018.jpg,happy,유재석 의 도전 대단하다..
+59,/home/jieun/MobileVLM/data/happy/000019.jpg,happy,63번버스 매일타는데 다른기사님들보다 참 젊은기사분이라고 생각했었는데 멋지시기까지 하네요!!
+60,/home/jieun/MobileVLM/data/happy/000020.jpg,happy,박보검 눈물의 최우수상 같이 울었네요~축하해요 보검이도 송중기도요~♡
+61,/home/jieun/MobileVLM/data/neutral/002001.jpg,neutral, 소량은 먹어도 인체에 해롭지 않고요.
+62,/home/jieun/MobileVLM/data/neutral/002002.jpg,neutral,그래도 청문회 나온 놈들보다는 정직한 대답 한것 같다
+63,/home/jieun/MobileVLM/data/neutral/002003.jpg,neutral,이런일 터지기전에 이미 계약 했을까?
+64,/home/jieun/MobileVLM/data/neutral/002004.jpg,neutral,좀더 신중할필요가 있다...
+65,/home/jieun/MobileVLM/data/neutral/002005.jpg,neutral,이번엔 베터리 색상은?
+66,/home/jieun/MobileVLM/data/neutral/002006.jpg,neutral,근데 탈모도 아버지가 머리가풍성해도 아들은 탈모이고 아버지가 탈모여도 아들은 머리가 풍성한사람의외로많음.
+67,/home/jieun/MobileVLM/data/neutral/002007.jpg,neutral,최형우를 잡으려면 계약금은 최소 연봉은 최대로....
+68,/home/jieun/MobileVLM/data/neutral/002008.jpg,neutral, 제작진 쪽에서는 이미 같이 하자고 했겠지.
+69,/home/jieun/MobileVLM/data/neutral/002009.jpg,neutral,저 문 어떻게 여는 거예요?
+70,/home/jieun/MobileVLM/data/neutral/002010.jpg,neutral,가을은 오호츠크해 기단의 영향받는거아니었나?
+71,/home/jieun/MobileVLM/data/neutral/002011.jpg,neutral,이것이 공정한 사회요 법치이다.
+72,/home/jieun/MobileVLM/data/neutral/002012.jpg,neutral,교육은 남에게 봉사 희생 헌신을 가르치는것이지..
+73,/home/jieun/MobileVLM/data/neutral/002013.jpg,neutral,기사제목 개식상하거나 사심기사거나
+74,/home/jieun/MobileVLM/data/neutral/002014.jpg,neutral,축구로 비유 하자면 호날두나 메시가 발롱도르 받는 거랑 같지 ㅋㅋ
+75,/home/jieun/MobileVLM/data/neutral/002015.jpg,neutral,오늘도 출발합니다
+76,/home/jieun/MobileVLM/data/neutral/002016.jpg,neutral,시민에 피해가 없어야 합니다
+77,/home/jieun/MobileVLM/data/neutral/002017.jpg,neutral,혈액 검사하면 금방 알 수 있다
+78,/home/jieun/MobileVLM/data/neutral/002018.jpg,neutral,여기엔 꼭 댓글 달아야겠다.
+79,/home/jieun/MobileVLM/data/neutral/002019.jpg,neutral,휴게소로 따라갔더니.
+80,/home/jieun/MobileVLM/data/neutral/002020.jpg,neutral,하지만 후반에는 변했다.
+81,/home/jieun/MobileVLM/data/sad/000401.jpg,sad,다이어트전에는 165에 58kg이었어요 
+82,/home/jieun/MobileVLM/data/sad/000402.jpg,sad,머리로는 무조건 헤어져야하는데 (바람같은 최악은 아님)마음이 그러질 못하고 있습니다..
+83,/home/jieun/MobileVLM/data/sad/000403.jpg,sad,21주된 첫 아가를 자궁경부무력증으로 하늘나라에 보냈습니다...
+84,/home/jieun/MobileVLM/data/sad/000404.jpg,sad,그리고 이시간외엔 계속 공부하느라운동을 마니할순없으요ㅠㅠ
+85,/home/jieun/MobileVLM/data/sad/000405.jpg,sad,나도 이제 마음 접어야겠다.
+86,/home/jieun/MobileVLM/data/sad/000406.jpg,sad,나중에 다시연락한다면서 별다른 이유없이 차엿어요
+87,/home/jieun/MobileVLM/data/sad/000407.jpg,sad,다들 처음에 힘드신데도 참고 하셨나요?
+88,/home/jieun/MobileVLM/data/sad/000408.jpg,sad,제가 이제 곧 군대를 가는데요
+89,/home/jieun/MobileVLM/data/sad/000409.jpg,sad,빚 한달에 22만원 나와요.
+90,/home/jieun/MobileVLM/data/sad/000410.jpg,sad,게속 울어요ㅠ ㅠ
+91,/home/jieun/MobileVLM/data/sad/000411.jpg,sad,헤어지고 마음이 깨지는 느낌이지만..
+92,/home/jieun/MobileVLM/data/sad/000412.jpg,sad,바지를 27입었는데 약 복용 후 29가 되버렸어요...
+93,/home/jieun/MobileVLM/data/sad/000413.jpg,sad,원픽 많대매ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
+94,/home/jieun/MobileVLM/data/sad/000414.jpg,sad,오늘도 연락한통없네요
+95,/home/jieun/MobileVLM/data/sad/000415.jpg,sad,제가 그렇게 잘못한 걸까요.
+96,/home/jieun/MobileVLM/data/sad/000416.jpg,sad,6년만남후 이별후 환승한 여자친구 친구는 아니였지만지인인 남자한테 환승했구요
+97,/home/jieun/MobileVLM/data/sad/000417.jpg,sad,몇달전에 산후검사하여 자궁경부암 검사는 정상이라 나왔는데..
+98,/home/jieun/MobileVLM/data/sad/000418.jpg,sad,이런경우 마음이 떠난건가요..?
+99,/home/jieun/MobileVLM/data/sad/000419.jpg,sad,게임도 재미없구.............
+100,/home/jieun/MobileVLM/data/sad/000420.jpg,sad,43석인데 손님 10석이상 안차요.
+101,/home/jieun/MobileVLM/data/surprised/001601.jpg,surprised,의사양반 내가고자라니!
+102,/home/jieun/MobileVLM/data/surprised/001602.jpg,surprised,이 사람 얼굴이 약간 전라도 사람처럼 생겼네
+103,/home/jieun/MobileVLM/data/surprised/001603.jpg,surprised,아직도 안잡았냐??
+104,/home/jieun/MobileVLM/data/surprised/001604.jpg,surprised,이분 ~~진짜 욕먹는건 이제 신의 영역에 들어선거같다~~ㅋㅋ
+105,/home/jieun/MobileVLM/data/surprised/001605.jpg,surprised,똥꼬 그냥 확.
+106,/home/jieun/MobileVLM/data/surprised/001606.jpg,surprised,진짜 종횡무진하잖아
+107,/home/jieun/MobileVLM/data/surprised/001607.jpg,surprised,미군 주둔하면 식민지라며? ㅎㄷ
+108,/home/jieun/MobileVLM/data/surprised/001608.jpg,surprised,와 한강 이사람도 전라도출신이네
+109,/home/jieun/MobileVLM/data/surprised/001609.jpg,surprised,아니 삼성처럼 기업을 운영한.것도 아닌데 어떻게 개인 일가가 8천억이란.
+110,/home/jieun/MobileVLM/data/surprised/001610.jpg,surprised,한국에서 저런일이~!!
+111,/home/jieun/MobileVLM/data/surprised/001611.jpg,surprised,나라 자체가 도로가 기준일 만큼 반듯반듯하게 지어놨냐.
+112,/home/jieun/MobileVLM/data/surprised/001612.jpg,surprised,대박..진짜 탈퇴할 줄 이야..
+113,/home/jieun/MobileVLM/data/surprised/001613.jpg,surprised,비 많이 와
+114,/home/jieun/MobileVLM/data/surprised/001614.jpg,surprised,지금 주문해도 9월에 못받는다던데?
+115,/home/jieun/MobileVLM/data/surprised/001615.jpg,surprised,내 발등뼈는 왜 조각났늬
+116,/home/jieun/MobileVLM/data/surprised/001616.jpg,surprised,근데 요즘 추격전은 유재석만 뛰어다녀. .
+117,/home/jieun/MobileVLM/data/surprised/001617.jpg,surprised,대단하다.
+118,/home/jieun/MobileVLM/data/surprised/001618.jpg,surprised,정말 이게 기사야???
+119,/home/jieun/MobileVLM/data/surprised/001619.jpg,surprised,대다나다. 당신없으면. 대한민국 더잘돌아간답니다...
+120,/home/jieun/MobileVLM/data/surprised/001620.jpg,surprised,이거 실화냐?
